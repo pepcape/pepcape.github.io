@@ -5,6 +5,8 @@ title: Prof. Anna Hogenová v Neurazitelném podcastu (10. 6. 2026)
 
 # Neurazitelný podcast 10. 6. 2026
 
+![Screenshot](2026-06-10-AnnaHogenova.jpg)
+
 ## Anna Hogenová: Smysl života je něco tak jednoduchého... Nejdůležitější dar, co v životě dostaneš
 
 (c) 2026 Jarda Jirák (JJ) a prof. Anna Hogenová (AH)
