@@ -1,2 +1,2 @@
-# texts
-Random text for public sharing
+# `texts` repo
+Random texts for public sharing
