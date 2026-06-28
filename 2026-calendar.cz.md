@@ -23,6 +23,8 @@ Později cestou lodí do Flørli už tak pěkně nebylo. Ve Flørli jsem se šel
 
 <https://www.visitnorway.com/listings/hike-to-fl%C3%B8rlitrappene-and-rallarstien-in-the-lysefjord/238296/>
 
+---
+
 ![Esbjerg, Men at Sea](media/01-2025-08-02_085748.jpg)
 
 ## DK Týden 01: Esbjerg, Men at Sea
@@ -31,6 +33,8 @@ Esbjerg je město, které jsem v minulé výpravě vynechal, tentokrát jsem si 
 bez turistů.
 
 <https://nl.wikipedia.org/wiki/Mannen_aan_de_Zee>
+
+---
 
 ![Sønderho](media/02-2025-08-02_115102.jpg)
 
@@ -42,4 +46,19 @@ Když vyrostl, domek po prarodičích nezdědil, ale pořídil si jiný a rodinn
 Pozn: to není ani jeden z domů na fotografii, ten jeho byl trochu méně fotogenický...
 
 <https://www.vadehavskysten.com/ribe-esbjerg-fano/ribe-esbjerg-fano/sonderho-fano-denmarks-most-beautiful-village-gdk1010408>
+
+---
+
+![Sønderho Kirke](media/03-2025-08-02_134252_2k.jpg)
+
+## DK Týden 03: Sønderho Kirke
+
+Na ostrově Fanø jsem došel až k tomuto kostelu, který se ukázal velmi zajímavým - je v něm umístěna nejrozsáhlejší sbírka votivních modelů lodí - je jich tam patnáct!
+Varhany z roku 2006 jsou umístěny v přízemí, tak si je můžete dobře prohlédnout. Jejich zvuk jsem ale neslyšel...
+
+<https://de.wikipedia.org/wiki/S%C3%B8nderho_Kirke>
+
+<https://en.wikipedia.org/wiki/Votive_ship>
+
+---
 
