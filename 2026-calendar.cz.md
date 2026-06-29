@@ -332,3 +332,123 @@ Výlet lodí do Flørli (Flørlitrappene) je zdokumentován v jiném příspěvk
 
 [Kjerag](https://www.instagram.com/p/DNsSpIkVCMK/)
 
+---
+
+![Vardsvatn - Kvislevassknuten trekksone](media/19-2025-08-11_143458 IMG_3691_2k.jpg)
+
+## NO Týden 19: Vardsvatn - Kvislevassknuten trekksone
+
+Chráněná horská oblast, přes kterou jsem jen projížděl autem za mlhavého počasí. Podle informací v turistických průvodcích se zde dají naplánovat pěkné túry.
+
+S ovečkami jsem se setkal několikrát, tohle byl tak malebný záběr, že jsem ho z auta vyfotil. Ovce (i jiná zvířata) volně procházejí krajinou, podle zdrojů je každé léto do divočiny vypuštěno přibližně dva miliony ovcí. My naštěstí nepotkali velké stěhování, kdy ohromná stáda jdou krajinou silnice nesilnice...
+Pár oveček na cestě, to je docela příjemný, i když trochu omezující zážitek. Dopravní značky upozorňují na místa s nejfrekventovanějším výskytem těchto sudokopytníků. Dopravní značka je něco jako první varování, další úroveň pozornosti musíte zapnout, když uvidíte první ovečku: to znamená, že budou určitě poblíž i další a na silnici se doporučuje ještě o něco snížit rychlost, třeba i na 30 km/h. Tak se vyhnete nepříjemnostem.
+No a když se ovce na silnici zastaví a vypadá to, že neví, co dál? Prý vždy vědí, kde jsou a kam mají namířeno, jen prostě žijí svůj život pomalejším tempem než my, motoristé nebo cyklisté. Nakonec vždycky odejdou, kam potřebují, na silnici si obvykle nelehají..
+
+Šťastné putování po norských silnicích!
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/happy-sheep/>
+
+<https://www.komoot.com/cs-cz/guide/159972/turistika-kolem-setesdal-vesthei-ryfylkeheiane-landskapsvernomrade>
+
+<https://peakvisor.com/peak/kvislevassnuten.html>
+
+<https://www.gaiagps.com/hike/norway/aust-agder/vardsvatn-kvislevassknuten-trekksone/>
+
+---
+
+![Odda](media/20-2025-08-13_134418_2k.jpg)
+
+## NO Týden 20: Odda
+
+Ve středu 13. 8. 2025 jsem měl na programu dlouhou cestu z Røldal až do Bergenu. Byly naplánovány návštěvy několika vodopádů, ale hned ten první - Låtefossen - byl tak obležen turisty s karavany, že jsem zastávku vzdal. V ušetřeném čase jsem strávil hodinu v pěkném městečku Odda - později jsem si přečetl v bedekrech, že je považováno za jedno z nejmalebnějších míst v západním Norsku.
+
+Zaparkoval jsem u nábřeží a šel se aspoň zvenku podívat na pěkný - úplně bílý - kostel Odda Kirke. Přes vodní hladinu jsem vyfotil protější svah s barevnými domky a nakoupil nějaké oblečení na pěší zóně v ulici Røldalsvegen (měli velké slevy!).
+
+V okolí městečka Odda byl natáčen fantasy seriál Ragnarök (Netflix, tři sezóny, 18 epizod).
+
+<https://en.wikipedia.org/wiki/Odda_(town)>
+
+<https://www.facebook.com/pages/Odda/280964478751724/>
+
+<https://nordivatours.com/things-to-do-in-odda-norway/>
+
+<https://www.imdb.com/title/tt9251798/>
+
+<https://www.csfd.cz/film/794655-ragnarok-konec-sveta/prehled/>
+
+---
+
+![Fossatromma](media/21-2025-08-13_171302.jpg)
+
+## NO Týden 21: Fossatromma
+
+Z Oddy jsem se vydal do Trolldalen za skupinou velmi populárních vodopádů. Fossatromma na fotce je první z nich, následuje Vøringfossen (nad ním se můžete projít po pěkné lávce) a zboku se připojuje Tysvikjofossen. Zázemí pro turisty je tam vynikající, odhadl jsem, že nahoře (větší koncentrace parkovišť a restaurací) bude moc rušno, tak jsem zastavil na dolní plošině. Odměnou mi byla procházka po chodníčkách kolem bažiny, několik vyhlídek na vodopády a nakonec přístup na již zmíněnou lávku. Prošel jsem se, vyfotil spoustu snímků a odjížděl spokojen.
+
+Na cestě z Trolldalen do Måbødalen (tam jsem pro nedostatek času vynechal /jistě pěkné/ muzeum - viz odkaz) se silnice noří do čtyř tunelů, které dokonce tvoří smyčky (viz mapa na norské Wikipedii).
+
+Ale největší silniční atrakce mne teprve čekaly: most Hardangerbrua (nejdelší visutý most v zemi a třetí nejdelší v Evropě) a potom legendární 7510m dlouhý tunel Vallaviktunnelen, na kterém byl později postaven kruhový objezd a propojka na Hardangerbrua. Pokud někde na internetu uvidíte fotku kruháče v podzemí, pravděpodobně to bude on.
+
+<https://hardangerfjord.com/eidfjord/opplevelser/fin-rundtur-ved-voringsfossen-6368183>
+
+<https://hardangerfjord.com/eidfjord/opplevelser/voringsfossen-1571743>
+
+<https://no.wikipedia.org/wiki/Storegjeltunnelen>
+
+<https://hardangerfjord.com/eidfjord/opplevelser/mabodalen-kulturlandskapsmuseum-919753>
+
+<https://nn.wikipedia.org/wiki/Hardangerbrua>
+
+<https://en.wikipedia.org/wiki/Vallavik_Tunnel>
+
+---
+
+![Steinsdalsfossen](media/22-2025-08-13_195448 IMG_4105_2k.jpg)
+
+## NO Týden 22: Steinsdalsfossen
+
+Ten den jsem musel dojet do Bergenu, ale nemohl jsem vynechat jeden z nejzajímavějších vodopádů mé cesty - Steinsdalsfossen. Z těch, která jsem v Norsku navštívil, to byl jediný, kde se dalo zajít za padající vodu a získat tak jedinečný zážitek (o tom však až příští týden).
+
+Na obrázku je vidět pohled zdola - voda padá s takovou silou, že vás mrholení zmáčí na desítky metrů daleko od paty vodopádu. Já s sebou neměl nepromokavý oděv, tak jsem se tolik nepřiblížil.
+
+<https://www.visitnorway.com/listings/steinsdalsfossen-waterfall/14039/>
+
+<https://en.wikipedia.org/wiki/Steinsdalsfossen>
+
+<https://en.wikipedia.org/wiki/List_of_waterfalls#Norway>
+
+---
+
+![Øvsthus](media/23-2025-08-13_200244.jpg)
+
+## NO Týden 23: Øvsthus
+
+Druhá fotografie vodopádu Steinsdalsfossen ukazuje pohled zpoza padající vody na obec Øvsthus, na jejímž území se vodopád nachází. Pohodlnou cestičkou se dostanete až za vodopád a můžete si užívat jedinečný zážitek nebo fotit na krátké či dlouhé časy proud vody. Já si zvolil 1/700 sekundy pro zachycení jednotlivých kapek.
+
+Protože jsem tam byl navečer a slunce se již klonilo k západu, osvětlovalo krajinu pěkným teplým světlem. Další výhodou pozdní návštěvy byla absence velkého množství turistů. Do nedalekého Bergenu jsem dojel ještě za světla, tomu se však budu věnovat později.
+
+<https://www.visitnorway.com/listings/steinsdalsfossen-waterfall/14039/>
+
+<https://en.wikipedia.org/wiki/Steinsdalsfossen>
+
+<https://en.wikipedia.org/wiki/List_of_waterfalls#Norway>
+
+---
+
+![Bryggen](media/24-2025-08-14_112241_2k.jpg)
+
+## NO Týden 24: Bryggen
+
+V Bergenu jsem strávil jeden celý den. Původní plán vyjet lanovkou Fløibanen nad město padl, protože bylo krásné počasí, turistů velmi mnoho a fronta na lístky byla snad sto metrů dlouhá. Místo toho jsem se procházel po nábřeží, hlavně slavnou čtvrtí Bryggen, chráněnou UNESCO. Kromě úzkých uliček a zajímavých starých domků mne zlákala místní kuchyně - chtěl jsem ochutnat rybí polévku, tak jsem se zeptal AI a na její radu zašel do ne příliš drahé hospůdky na "Bergensk fiskesuppe med laks" (více obrázků najdete ve starším Ig postu, odkaz je uveden dole).
+
+V Bergenu na nábřeží jsem rovněž zašel na zlevněné suvenýry a koupil pár dárků a pro sebe např. norskou vlaječku a tričko s nápisem "Troll". Pokud mne v něm uvidíte, můžete si vzpomenout na Bergen.
+
+<https://en.wikipedia.org/wiki/Bryggen>
+
+<https://en.wikipedia.org/wiki/Bergen>
+
+<https://snl.no/Bryggen_i_Bergen>
+
+<https://scandinaviancookbook.com/fiskesuppe-creamy-norwegian-fish-soup/>
+
+<https://www.instagram.com/p/DOV1S6kCqJl/>
+
