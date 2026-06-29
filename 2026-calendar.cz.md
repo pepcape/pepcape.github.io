@@ -223,4 +223,112 @@ Slovy to nedokážu dobře popsat, zkuste si pustit nějaké krátké video uved
 
 <https://vimeo.com/885991712>
 
+---
+
+![Lindesnes fyr](media/13-2025-08-07_195845_2k.jpg)
+
+## NO Týden 13: Lindesnes fyr
+
+První den opravdového auto-výletu po Norsku jsem věnoval jižnímu pobřeží. Navštívil jsem známou pláž Kanelstranda, tu však musíte vidět kolem západu slunce za pěkného počasí, abyste ulovili legendární snímky (a to nebyl můj případ).
+
+Další zastávkou byl velice známý maják "Lindesnes fyr" se zajímavou historií i technickým dědictvím. Bez zaplacení vstupného se nedostanete ani k majáku, tak jsem zaplatil. Vyplatilo se to, v ceně byl i přístup ke zbytkům WWII opevnění a vstup do pěkného muzea. Původní zdroje světa, historické Fresnelovy čočky, to jsou příklady exponátů.
+
+Na noc jsem odjel na první mé "divoké" norské parkoviště u jezera Botnevatnet na silnici Kvanvikveien. Bylo tak plno, že jsem tam skoro nezaparkoval, ale nakonec se v autě vyspal slušně, pravděpodobně díky únavě.
+
+<https://www.visitnorway.com/listings/kanelstranda-cinnamon-beach/17598/>
+
+<https://en.wikipedia.org/wiki/Lindesnes_Lighthouse>
+
+---
+
+![Helleren, Jøssingfjord](media/14-2025-08-08_091909_2k.jpg)
+
+## NO Týden 14: Helleren, Jøssingfjord
+
+Další den jsem brzo ráno vyrazil do Jøssingfjordu za jednou z nejslavnějších atrakcí - národní památkou Helleren. Dva domky byly postaveny pod skalním převisem hlubokým přibližně deset metrů, který je částečně chrání před deštěm a sněhem. Zřejmě již od sedmnáctého století bylo možné toto místo celoročně obývat - viz odkazy níže.
+
+Opodál je postavená zajímavá moderní stavba: vědecké muzeum Jøssingfjordu. Byl jsem na místě příliš brzo a nechtělo se mi čekat na otevírací hodinu (11:00), tak jsem návštěvu muzea vynechal. Podle toho, co se dá přečíst na webu nebo informačních tabulích, ta návštěva by stála za to.
+
+Místo toho jsem se zastavil na vrcholu skály nad převisem, je tam parkoviště, pěkný výhled a přístup k historickému památníku postavenému na počest norských hrdinů, kteří vzdorovali nacistické okupaci.
+
+<https://dalanefolkemuseum.no/avdelinger/helleren/>
+
+<https://dalanefolkemuseum.no/avdelinger/jossingfjord-vitenmuseum/>
+
+<https://www.visitnorway.com/listings/helleren-and-jossingfjord/25192/>
+
+<https://en.wikipedia.org/wiki/J%C3%B8ssingfjord>
+
+---
+
+![Sogndalstrand](media/15-2025-08-08_110717.jpg)
+
+## NO Týden 15: Sogndalstrand
+
+Přístavní vesnice Sogndalstrand (Sogndalsstranda) byla postavena kolem ústí řeky Sokno do Severního moře. Dodnes jsou tam zachovány malebné domy na nábřeží, dříve sloužily často jako sklady dovezeného zboží. Z druhé strany těchto domů prochází ulice Strandgaten - pokud půjdete na její jižní konec a pak vystoupáte do výšky, dostanete se až k vyhlídce na moře (Loshytto).
+
+Na druhém břehu řeky můžete dojít až do přístavu, který se dnes už neužívá k dovozu zboží.
+
+<https://en.wikipedia.org/wiki/Sogndalstrand>
+
+<https://www.visitnorway.com/listings/sogndalstrand/25196/>
+
+<https://www.fjordnorway.com/en/attractions/sogndalstrand>
+
+<https://magmageopark.no/en/location-object/sogndalstrand/>
+
+---
+
+![Sogndalstrand Kulturhotell](media/16-2025-08-08_114901_2k.jpg)
+
+## NO Týden 16: Sogndalstrand Kulturhotell
+
+Významnou budovou na Strandgaten (Sogndalstrand) je Kulturhotell; zaujal mne už zvenku, tak jsem se rozhodl dát si tam kávu. Pěkné prostředí jejich jídelny jsem sice vyfotil, ale nakonec je nejlepším snímkem tato toaleta s funkčním piánem - a bylo docela dobře naladěné, pokud mohu posoudit.
+
+<https://sogndalstrand-kulturhotell.no/en/home/>
+
+<https://www.visitnorway.com/listings//sogndalstrand-kulturhotell/25108/>
+
+---
+
+![Månafossen](media/17-2025-08-10_134640_2k.jpg)
+
+## NO Týden 17: Månafossen
+
+Byla to moje vlajka? Nebyla. Musel jsem kvůli vyhlídce na vodopád lézt po skále? Musel (viz YT video v odkazech).
+
+Z parkoviště je cesta asi 100 výškových metrů nahoru k vyhlídce. Naštěstí je cesta dobře připravená, snad jen za vlhka by byla nebezpečná.
+Nicméně klasifikace obtížnosti norských pěších tras je asi trochu jiná, tohle bylo myslím označeno jako "lehké". Rozhodně nedoporučuji se nahoru vydat bez dobrých pevných bot.
+
+Nahoru a dolů proudily skupinky turistů, na místě byl však klid a mohli jste si najít místo jen pro sebe. Já se tam seznámil s norskou rodinou, rodiče a dvě menší děti. Napadla mne otázka o cestování po rodné zemi: "Jak často se vydáte k nějaké turistické atrakci (skála, výhled, vodopád), když se nachází ve vaší zemi?" Norové mi odpověděli, že u tohoto vodopádu jsou poprvé v životě a že v posledních letech cestují víc, protože děti toho už jsou schopny (úplná klasika, tak to má IMO i většina našich rodin). Smalltalk nemá cenu sdílet, ale musím jim ještě jednou poděkovat za půjčení vlaječky, kterou se mi podařilo docela dobře použít v mé fotografii (viz "hloubka ostrosti").
+
+Cesta dolů byla nepřekvapivě náročnější, i proto, že začalo drobně mžít.
+
+Pokud budete někdy v okolí Stavangeru, rozhodně doporučuji!
+
+<https://en.wikipedia.org/wiki/M%C3%A5nafossen>
+
+<https://www.visitnorway.com/listings/manafossen-waterfall-and-friluftsgarden-man/39557/>
+
+<https://www.youtube.com/watch?v=WmBoDCR5hbs>
+
+---
+
+![Lysefjord from Lysebotn](media/18-2025-08-11_065557 IMG_3501.JPG)
+
+## NO Týden 18: Lysefjord from Lysebotn
+
+Foceno 11. 8. 2025 před sedmou hodinou z kempu v Lysebotn. Den předtím jsem dorazil autem po silnici 4224 (Lysevegen) se slavnými serpentinami a dokonce jednou otočkou uprostřed kopce (Lysetunnelen), ve které cesta klesne na 1103 metrech o cca 100 metrů. Bylo špatné počasí, fotit nemělo moc smysl.
+
+Nahoře nad serpentinami se nachází odpočívadlo a vyhlídka Øygardsstølen, tam jsem se zastavil a dal si kafe. Je jasné, že za krásného počasí tam jsou moc pěkné výhledy, já pár fotek dal už dříve do příspěvku označeného "Kjerag". S obsluhou občerstvení jsem prohodil pár slov, ukázalo se, že provozují také kemp dole v Lysebotn, kam jsem měl namířeno.
+
+Výlet lodí do Flørli (Flørlitrappene) je zdokumentován v jiném příspěvku, viz níže.
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/the-stavanger-region/listings-stavanger/lysevegen-road-in-lysebotn/235453/>
+
+<https://linktr.ee/kjeragcaferestaurant>
+
+[Flørli](https://www.instagram.com/p/DNvAzkXVIuG/)
+
+[Kjerag](https://www.instagram.com/p/DNsSpIkVCMK/)
 
