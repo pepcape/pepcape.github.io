@@ -108,8 +108,8 @@ Na radu kamarádky Denisy jsem v Aalborgu navštívil Salling Rooftop (odtud se 
 
 ## DK Týden 07: Den klodsede by, Utzon Center, Aalborg
 
-V Aalborgu jsem navštívil skvělé Utzon Center, ale nedávám sem žádnou obvyklou fotku střechy s válcovými plochami. Místo toho je tu zobrazen prostor, tak typický pro Dánsko
-- dílna pro Lego a Minecraft. Děti i dospělí si zde mohou sednout, nechat se inspirovat již vystavenými objekty, hrábnout do hromady kostiček a začít tvořit (já jsem odolal, tušil jsem, že bych tam strávil příliš mnoho času, který jsem neměl).
+V Aalborgu jsem navštívil skvělé Utzon Center, ale nedávám sem žádnou obvyklou fotku střechy s válcovými plochami. Místo toho je tu zobrazen prostor, tak typický pro Dánsko -
+dílna pro Lego a Minecraft. Děti i dospělí si zde mohou sednout, nechat se inspirovat již vystavenými objekty, hrábnout do hromady kostiček a začít tvořit (já jsem odolal, tušil jsem, že bych tam strávil příliš mnoho času, který jsem neměl).
 
 Jørn Utzon spolu se synem Kimem centrum postavili v roce 2008 a věnovali ho architektuře a designu. Dodnes funguje jako pracovní místo pro ateliér Utzon, dokonce jsem někde našel výzvu, že se můžete potichu podívat i přímo do "kanceláří" architektů a designérů, když se předtím dovolíte. To jsem udělal, fotky soukromějších prostor samozřejmě vystavovat nemohu.
 
