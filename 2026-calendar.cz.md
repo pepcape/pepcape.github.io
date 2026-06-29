@@ -82,7 +82,7 @@ Zajímavý zážitek z přístavu popíšu za týden.
 
 ## DK Týden 05: Boat winching, Løkken Mole
 
-Když najdete na letecké mapě Løkken Mole, všimněte si i lodí vytažených ne břeh. Jednoho takového vytahování jsem byl svědkem. Podle množství okukujících lidí - turistů i místních - to je jen občasná podívaná.
+Když najdete na letecké mapě Løkken Mole, všimněte si i lodí vytažených na břeh. Jednoho takového vytahování jsem byl svědkem. Podle množství okukujících lidí - turistů i místních - to je jen občasná podívaná.
 
 Loď FN437 Bihama nejdřív přijela k molu (na severovýchodní straně, která je trochu chráněná proti vlnám) a čekala na asistenci z pevniny. Po molu přijel traktor, přitáhl z navíjecí stanice lano a společně s posádkou na něj loď přivázali. Pak už bylo vše v rukou obsluhy navijáku (domeček na břehu v prodloužení mola, kdybyste se stále dívali na leteckou mapu) a jednoho pomocníka, který měl na starost lano - přehazoval ho podle potřeby na různé kladky (se svislou osou otáčení) umístěné napevno na pláži. Pomalu dotáhli loď až na břeh, zjevně je konstruovaná tak, aby jí tažení po písku nepoškodilo. Celá akce trvala minimálně 20 minut.
 
@@ -176,7 +176,7 @@ Veliká loď ovšem skýtá dostatek komfortu a jen velké vlny ji mohou rozhoup
 
 Padesét pět metrů dlouhé vyšívané dílo, na kterém pracoval Torvald Moseid čtrnáct let a byl to jeho poslední monumentální počin. Zvolil jsem ho jako reprezentativní (a velice zajímavý) umělecký objekt umístěný ve slavném Kunstsilu.
 
-Jak jsem se do Kunstsila dostal? Na podzim roku 2024 jsem s velkým zájmem sledoval video Adama Gebriana (agebrian) o fascinujícím přerodu průmyslové stavby na muzeum. Do paměti se mi ale nezapsalo jméno norského města (Kristiansand).
+Jak jsem se do Kunstsila dostal? Na podzim roku 2024 jsem s velkým zájmem sledoval video Adama Gebriana (@agebrian) o fascinujícím přerodu průmyslové stavby na muzeum. Do paměti se mi ale nezapsalo jméno norského města (Kristiansand).
 
 Když jsem loni v létě přijížděl trajektem do přístavu v Kristiansandu, zpozoroval jsem už z lodi tuto bílou dominantu. Ihned jsem se rozhodl prodloužit si tam ubytování a jeden den navíc strávit na ostrově Odderøya. Architektonicky zajímavé a nádherné umělecké centrum Kilden bylo bohužel uzavřené (nechávám si ho na příště), ale Kunstsilo jsem si užil maximálně. Když si zaplatíte vstupné, můžete projít všechna patra s uměním. Velmi dlouhá výšivka nebyla jedinou zajímavostí. Jinou instalaci považuji za nejlepší zážitek v Kunstsilu, nešlo ji však fotografovat, napíšu vám o ní příště.
 
@@ -502,7 +502,7 @@ Fotografie z kalendáře ukazuje jedno z nejznámějších míst ledovce Josteda
 
 ## NO Týden 27: Nigardsbrevatnet
 
-Když jsem se přibližoval pěšky k Nigardsbreen, zjistil jsem, že nejotravnější a nejnáročnější část cesty je překvapivě po rovině kolem jezera Nigardsbrevatnet. Neměl jsem mnoho času, tak jsem se vrátil k molu a zaplatil si cestu malou motorovou lodí, která ušetří čas a nabídne krásné výhledy na ledovac z hladiny jezera. Cestou zpět jsem musel chvátat, abych stihl poslední plavbu zpátky.
+Když jsem se přibližoval pěšky k Nigardsbreen, zjistil jsem, že nejotravnější a nejnáročnější část cesty je překvapivě po rovině kolem jezera Nigardsbrevatnet. Neměl jsem mnoho času, tak jsem se vrátil k molu a zaplatil si cestu malou motorovou lodí, která ušetří čas a nabídne krásné výhledy na ledovec z hladiny jezera. Cestou zpět jsem musel chvátat, abych stihl poslední plavbu zpátky.
 
 Všimněte si barvy ledovcové vody, modrou mléčnou barvu má i říčka Breelvi, která z jezera (a ledovce) vodu odvádí. Viz úplně poslední stránku kalendáře.
 
@@ -511,4 +511,20 @@ Všimněte si barvy ledovcové vody, modrou mléčnou barvu má i říčka Breel
 <https://www.visitnorway.com/listings/kayaking-on-nigardsbrevatnet-and-hike-on-nigards-glacier/237509/>
 
 <https://www.komoot.com/guide/184242/hiking-around-nigardsbrevatnet>
+
+---
+
+![Eidsvatnet, Ludwig Wittgenstein hut](media/28-2025-08-17_192153_2k.jpg)
+
+NO Týden 28: Eidsvatnet, Ludwig Wittgenstein hut
+
+**Ludwig Wittgenstein (1889–1951)**, rakouský filozof a jedna z největších osobností myšlení 20. století, zásadně proměnil způsob, jakým filozofie uvažuje o jazyce. Zajímal ho vztah mezi tím, co si myslíme, jak o tom mluvíme, a světem, který se tím snažíme popsat. Část svého slavného *Tractatu logico-philosophicus* napsal právě zde, ve Skjoldenu v západním Norsku, v domku nad jezerem Eidsvatnet, kam se opakovaně vracel. V tamní krajině nacházel ticho, odstup a klid potřebný k přemýšlení i psaní.
+
+Pozn.: domek je na této širokoúhlé fotografii dost maličký, ale s trochou úsilí ho jistě najdete.
+
+<https://www.stiftinga-wittgenstein.no/en/huset>
+
+<https://www.visitnorway.com/listings/osterike-the-site-of-wittgensteins-hut-in-skjolden/245704/>
+
+<https://upnorway.com/inspiration/wittgenstein-in-norway-a-philosophical-journey>
 
