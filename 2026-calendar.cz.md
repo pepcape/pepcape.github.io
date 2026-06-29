@@ -516,7 +516,7 @@ Všimněte si barvy ledovcové vody, modrou mléčnou barvu má i říčka Breel
 
 ![Eidsvatnet, Ludwig Wittgenstein hut](media/28-2025-08-17_192153_2k.jpg)
 
-NO Týden 28: Eidsvatnet, Ludwig Wittgenstein hut
+## NO Týden 28: Eidsvatnet, Ludwig Wittgenstein hut
 
 **Ludwig Wittgenstein (1889–1951)**, rakouský filozof a jedna z největších osobností myšlení 20. století, zásadně proměnil způsob, jakým filozofie uvažuje o jazyce. Zajímal ho vztah mezi tím, co si myslíme, jak o tom mluvíme, a světem, který se tím snažíme popsat. Část svého slavného *Tractatu logico-philosophicus* napsal právě zde, ve Skjoldenu v západním Norsku, v domku nad jezerem Eidsvatnet, kam se opakovaně vracel. V tamní krajině nacházel ticho, odstup a klid potřebný k přemýšlení i psaní.
 
