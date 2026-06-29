@@ -134,3 +134,93 @@ Dvě noci jsem tu přečkal a večer mohl nasávat atmosféru této legendární
 <https://en.wikipedia.org/wiki/Jomfru_Ane_Gade>
 
 <https://www.tv2nord.dk/aalborg/sadan-bliver-j-dag-i-gaden>
+
+---
+
+![Skagen Odde](media/09-2025-08-05_203352.jpg)
+## DK Týden 09: Skagen Odde
+
+Toto geograficky zajímavé místo jsem při minulé návštěvě Dánska vynechal, tak jsem to musel napravit: stýkají se tu Severní moře (průliv Skagerrak) a Baltské moře (průliv Kattegat). Obě moře mají různou teplotu, salinitu a hustotu a na mysu Grenen je občas vidět jejich rozdílná barva  - tu na mé fotce nevidíte. Skoro vždy však můžete pozorovat dva příboje, jak do sebe zuřivě naráží - Skagerrak ze severu a Kattegat z jihovýchodu. Vlastní mys se díky sedimentům posunuje přibližně o šest metrů každým rokem a postupně tak zužuje průliv Kattegat. Je to jedno z míst, kde fotografie nedokáže plně zachytit atmosféru - sílu živlů, barvy moří, hluk příboje. Vlny do sebe narážejí s takovou zuřivostí, jakoby věděly, že v příštích sekundách se jejich energie eliminuje, a tak se aspoň naposledy předvedou.
+
+Z fotografie je vidět, že nebylo ideální počasí, poprchávalo a byl silný vítr. Na konci cesty se mraky aspoň trošku protrhly, to byla dostatečná odměna za 1500m dlouhou procházku pískem, mokré boty i nohavice.
+
+Okolí mysu obývá významná kolonie tuleňů a mnoho druhů ptáků.
+
+Pár kilometrů podél Kattegat se nachází druhý nejvyšší dánský maják Skagen Fyr, pod kterým se dá pěkně vyspat v autě. Odtud mám jen méně kvalitní noční fotky a videa, sem se nedostaly.
+
+<https://en.wikipedia.org/wiki/Grenen>
+
+<https://www.embark.org/denmark/activity-type/adventures/grenen-skagen>
+
+<https://www.enjoynordjylland.com/north-jutland/plan-your-trip/grenen-skagen-gdk640520>
+
+<https://detgraafyr.dk/english>
+
+---
+
+![Trajekt do NO](media/10-2025-08-06_093853__01.jpg)
+## DK Týden 10: Trajekt do NO
+
+Z dánského přístavu Hirsthals jsem se plavil trajektem do norského Kristiansandu. Jeli jsme lodí MS Stavangerfjord a už před vyplutím to maličko zavánělo dobrodružstvím - kvůli předpovědi počasí v Skagerraku bylo vyplutí posunuto na dřívější hodinu, počasí se mělo postupně zhoršovat a později už by to mohlo být méně bezpečné či méně pohodlné. To jsem přivítal, protože jsem si přál zjistit, jak to mám s mořskou nemocí. Teď už mám jasno...
+
+Veliká loď ovšem skýtá dostatek komfortu a jen velké vlny ji mohou rozhoupat tak, že se voda převaluje přes příď na šesté palubě z deseti. To nám bylo dopřáno zažít. Fotky z toho nemám, protože se přes okna moc fotit nedalo. Místo toho sem dávám fotografii ze zádi, když byly vlny ještě mírnější a spousta pasažérů si spolu se mnou šla užívat větru a sluníčka. Houpání paluby není na fotce vidět, ale bylo zřetelné, jako suchozemec jsem si musel zvyknout na úplně jiný styl chůze. Špatně od žaludku mi však nebylo...
+
+<https://fjordline.com/en/p/our-ships/ms-stavangerfjord/about-the-ship>
+
+<https://en.wikipedia.org/wiki/MS_Stavangerfjord_(2012)>
+
+---
+
+![Draumkvedet by Torvald Moseid (Kunstsilo)](media/11-2025-08-06_170720.jpg)
+## NO Týden 11: Draumkvedet by Torvald Moseid (Kunstsilo)
+
+Padesét pět metrů dlouhé vyšívané dílo, na kterém pracoval Torvald Moseid čtrnáct let a byl to jeho poslední monumentální počin. Zvolil jsem ho jako reprezentativní (a velice zajímavý) umělecký objekt umístěný ve slavném Kunstsilu.
+
+Jak jsem se do Kunstsila dostal? Na podzim roku 2024 jsem s velkým zájmem sledoval video Adama Gebriana (agebrian) o fascinujícím přerodu průmyslové stavby na muzeum. Do paměti se mi ale nezapsalo jméno norského města (Kristiansand).
+
+Když jsem loni v létě přijížděl trajektem do přístavu v Kristiansandu, zpozoroval jsem už z lodi tuto bílou dominantu. Ihned jsem se rozhodl prodloužit si tam ubytování a jeden den navíc strávit na ostrově Odderøya. Architektonicky zajímavé a nádherné umělecké centrum Kilden bylo bohužel uzavřené (nechávám si ho na příště), ale Kunstsilo jsem si užil maximálně. Když si zaplatíte vstupné, můžete projít všechna patra s uměním. Velmi dlouhá výšivka nebyla jedinou zajímavostí. Jinou instalaci považuji za nejlepší zážitek v Kunstsilu, nešlo ji však fotografovat, napíšu vám o ní příště.
+
+Zatím si můžete pustit skvělé video Adama Gebriana, musím vás však varovat - získáte pravděpodobně neodolatelnou touhu toto norské město navštívit.
+
+<https://www.youtube.com/watch?v=XWMtkU8ffFU>
+
+<https://www.kunstsilo.no/en/exhibitions/draumkvedet>
+
+<https://www.instagram.com/p/DUblJvaCGlQ/>
+
+<https://no.wikipedia.org/wiki/Torvald_Moseid>
+
+<https://www.kunstsilo.no/en>
+
+<https://www.theguardian.com/artanddesign/article/2024/may/16/kunstsilo-grain-silo-gallery-kristiansand-norway-trillion-dollar-man>
+
+---
+
+![Brasserie, Kunstsilo](media/12-2025-08-06_181537_2k.jpg)
+## NO Týden 12: Brasserie, Kunstsilo
+
+Ještě jeden týden se budu věnovat Kunstsilu v Kristiansandu. Nahoře nad původní stavbou sila byla vybudována prosvětlená "Brasseri", kde si můžete dát kávu nebo oběd. Pokud máte pěkné počasí (jako já), budete se pravděpodobně chtít posadit do prosklených výklenků, odkud je z výšky 38 metrů vidět na velkou část ostrova Odderøya nebo na přístav a hlavní čtvrti města. Je tam příjemně čerstvý vzduch, protože jednotlivé skleněné pruhy mají mezi sebou mezery. Celkový dojem připomíná vrchol majákové věže, místo, ze kterého proudí světlo.
+
+Z minulého týdne jsem si nechal popis umělecké instalace, která mne velmi překvapila, a možná i proto ohromně zaujala: "VOX by Jónsi". Jestli znáte islandskou hudební skupinu Sigur Rós, tak budete znát i jméno Jónsi. Jón Þór "Jónsi" Birgisson vytvořil audiovizuální instalaci, ve které hraje hlavní roli jeho hlas, reprodukovaný z padesáti reproduktorů kolem místnosti. Váš zážitek je zesílen optickými vjemy, které jsou docela prosté - až minimalistické - svým designem, ale silné účinkem: působivé barvy zobrazované na vodorovných pásech ze všech stran místnosti. Pokud posloucháte sami - nebo skoro sami - máte velmi hluboký prožitek: temná místnost, občasné světlo, barvy kolem vás, Jónsiho hlas všude kolem vás.
+
+Slovy to nedokážu dobře popsat, zkuste si pustit nějaké krátké video uvedené dole. Nebo pátrejte po tom, kde je instalace VOX v současnosti v provozu, v Kristiansandu už to není.
+
+<https://www.kunstsilo.no/en/visit-us/brasserie>
+
+<https://www.dezeen.com/2024/05/09/kunstsilo-museum-grain-silo-norway/>
+
+<https://en.wikipedia.org/wiki/Odder%C3%B8ya>
+
+<https://martynwhite.co.uk/art/jnsis-vox-at-kunstsilo-where-voice-becomes-light-sound-and-spirit>
+
+<https://www.kunstsilo.no/en/exhibitions/vox-av-jonsi>
+
+<https://www.kunstsilo.no/en/channel/interview-w-jonsi>
+
+<https://www.kunstsilo.no/no/kunstsilo-live/utstillingsapning-vox-av-jonsi>
+
+<https://www.youtube.com/watch?v=yPVdDxYTZyQ>
+
+<https://vimeo.com/885991712>
+
+
