@@ -452,3 +452,63 @@ V Bergenu na nábřeží jsem rovněž zašel na zlevněné suvenýry a koupil p
 
 <https://www.instagram.com/p/DOV1S6kCqJl/>
 
+---
+
+![Mariakirken, Bergen](media/25-2025-08-14_122451_2k.jpg)
+
+## NO Týden 25: Mariakirken, Bergen
+
+Při procházce přístavem a okolím jsem narazil na anglikánský kostel Mariakirken v Bergenu. Byla možnost vyhnout se placení vstupného v době pravidelných krátkých bohoslužeb/motliteb. Tak jsem se rozhodl zúčastnit se a spojit příjemné s užitečným. A byl to dobrý nápad, sloužila sympatická reverendka, která si všimla, že většinou poslouchají turisté, tak ihned přepnula do angličtiny a pouze jednu nebo dvě modlitby nechala v norštině.
+
+Bylo to velmi příjemné a já jsem pak zašel reverendce poděkovat a prohodit pár slov - aby věděla, že její slova mají zásah až do ČR. Kostel má interiér v pěkném stavu, vybrat foto do kalendáře bylo těžké.
+
+<https://www.bergenanglicans.net/>
+
+<https://en.wikipedia.org/wiki/Bergen_Anglican_Church>
+
+---
+
+![Nigardsbreen](media/26-2025-08-17_161349 IMG_4300_2k.jpg)
+
+## NO Týden 26: Nigardsbreen
+
+V polovině srpna jsem několik dnů věnoval ledovcům, zejména největšímu evropskému pevninskému ledovci Jostedalsbreen. 
+
+Bydlel jsem v Førde a nejprve jsem si zajel do muzea Norsk BreMuseum. Moc pěkná expozice je korunována úchvatným širokoúhlým filmem s vysokým rozlišením, který si můžete zhlédnout i vícekrát během vaší návštěvy muzea. Já ho viděl dvakrát a navíc i dokument o vzniku tohoto jedinečného díla. 
+
+Zvuk přicházející ze všech stran a obraz šířky 15K pixelů (poměr stran je 5:1) vás úplně vtáhnou do nádherného světa ledovce Jostedal. Film byl natočen místní produkční společností Falkeblikk a abyste ho viděli, musíte navštívit muzeum (prý ho nikdy neposkytnou k projekci mimo muzeum). Teaser je uveden dole v odkazech (a věřte mi, vlastní film je ještě mnohem působivější). 
+
+Fotografie z kalendáře ukazuje jedno z nejznámějších míst ledovce Jostedal - ledovcový splaz Nigardsbreen. Můžete přijet autem na parkoviště vzdálené pár kilometrů od vlastního ledovce, nahoru se ale musíte vydat pěšky. Je to přes 2 km daleko s převýšením kolem 150 m. Za pěkného počasí neustále vidíte cíl cesty a máte motivaci pokračovat, i když cesta trvá skoro hodinu.
+
+<https://www.instagram.com/p/DQVKjWGipow>
+
+<https://www.falkeblikk.no/en/panoramicmovies/>
+
+<https://youtu.be/pybGLEs6pGk>
+
+<https://en.wikipedia.org/wiki/Nigardsbreen>
+
+<https://www.jostedal.com/>
+
+<https://www.jostedal.com/nigardsbreen/>
+
+<https://www.visitnorway.com/listings/nigardsbreen-glacier/111298/>
+
+<https://www.bremuseum.no/>
+
+---
+
+![Nigardsbrevatnet](media/27-2025-08-17_171154_2k.jpg)
+
+## NO Týden 27: Nigardsbrevatnet
+
+Když jsem se přibližoval pěšky k Nigardsbreen, zjistil jsem, že nejotravnější a nejnáročnější část cesty je překvapivě po rovině kolem jezera Nigardsbrevatnet. Neměl jsem mnoho času, tak jsem se vrátil k molu a zaplatil si cestu malou motorovou lodí, která ušetří čas a nabídne krásné výhledy na ledovac z hladiny jezera. Cestou zpět jsem musel chvátat, abych stihl poslední plavbu zpátky.
+
+Všimněte si barvy ledovcové vody, modrou mléčnou barvu má i říčka Breelvi, která z jezera (a ledovce) vodu odvádí. Viz úplně poslední stránku kalendáře.
+
+<https://no.wikipedia.org/wiki/Nigardsbrevatnet>
+
+<https://www.visitnorway.com/listings/kayaking-on-nigardsbrevatnet-and-hike-on-nigards-glacier/237509/>
+
+<https://www.komoot.com/guide/184242/hiking-around-nigardsbrevatnet>
+
