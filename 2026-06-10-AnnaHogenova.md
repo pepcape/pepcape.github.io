@@ -29,7 +29,7 @@ tak to je život hrozně bolestivej, že jo?
 Ale pak když se potkáš v tom posledním prameni -
 ale poznáš to zase jenom zpětně - když pustíš k sobě tu podstatnou minulost
 a nebudeš žít jen pro tu budoucnost - zářivou, jo?
-(což mimochdem má ten kapitalismus a socialismus úplně stejný)
+(což mimochodem má ten kapitalismus a socialismus úplně stejný)
 ... tak když tohleto k sobě pustíš, tak najednou...
 ta láska je fakt zázrak!
 
@@ -192,7 +192,7 @@ No řeknu ti, ani maminka nikdy mi tohleto nedala. Nikdy.
 Ona vždycky říkala "Já tě znám **líp,** než ty sebe samu!"
 
 A... tohle jsou fakt věci který jsou **"za zrakem",** to jsou ty **nevýslovný**.
-To je ta "thea", to je to posvátný.
+To je ta **"thea"**, to je to posvátný.
 No, to v životě je posvátný, **opravdu posvátný,**
 
 To není ta posvátnost, kterou ti někdo zase pumpuje do hlavy na nějakejch mších, jo?

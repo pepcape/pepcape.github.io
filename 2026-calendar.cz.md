@@ -528,3 +528,16 @@ Pozn.: domek je na této širokoúhlé fotografii dost maličký, ale s trochou 
 
 <https://upnorway.com/inspiration/wittgenstein-in-norway-a-philosophical-journey>
 
+---
+
+![Sognefjellet](media/29-2025-08-17_203155 IMG_4404_2k.jpg)
+
+## NO Týden 29: Sognefjellet
+
+Cestu z Førde do Lom jsem si naplánoval přes hornatou oblast / průsmyk **Sognefjellet**. Vede tam velmi slavná silnice, postupně až k nadmořské výšce 1430 m. Pokud jste někdy viděli video, jak se na jaře v Norsku frézuje průjezd závějemi vysokými několik metrů, mohlo to být právě na této silnici.
+
+Já jsem ovšem projížděl v létě, tak jsem si užil pěkných výhledů na okolní hory. Zastavil jsem několikrát, tato fotografie je z odpočívadla v nejvyšším bodě cesty - **1397 m**. Večerní slunce zabarvuje sníh do teplých odstínů, ale aby nedošlo k mýlce, nebylo tam nahoře nějaké zvláštní teplo. Lepší záběry byste pořídili snad jen pomocí dronu, já ho však nemám.
+
+<https://en.wikipedia.org/wiki/Sognefjellet>
+
+<https://www.visitnorway.dk/listings/nasjonal-turistveg-sognefjellet/233713/>
