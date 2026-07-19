@@ -541,3 +541,28 @@ Já jsem ovšem projížděl v létě, tak jsem si užil pěkných výhledů na 
 <https://en.wikipedia.org/wiki/Sognefjellet>
 
 <https://www.visitnorway.dk/listings/nasjonal-turistveg-sognefjellet/233713/>
+
+---
+
+![Djupvatnet](media/30-2025-08-18_131800 IMG_4458_2k.jpg)
+
+## NO Týden 30: Djupvatnet
+
+Z oblasti Lomu jsem jel směrem na Geiranger. Kolem řeky Otta vystoupáte do hornaté oblasti (Breheimen nasjonalpark), kde je krásné údolí Breiddalen a mnoho pěkných jezer, například Breiddalsvatnet nebo Langvatnet. U některých jsem se zastavil a kochal se přírodou, o kousek výš - v nadmořské výšce 1400-1500 m - byl i v létě vidět sníh a led.
+
+Nejkrásnější jezero se ovšem objevilo až kousek před sjezdem dolů do Geirangeru, jmenuje se Djupvatnet. Nabízí pohled na vodní hladinu, nad kterou je vidět ledovec (Skjerdingdalsbreen) a já měl to štěstí, že od Geirangeru po hladině postupovala mlha/mrak. Bylo docela těžké najít záběr, ve kterém by nebyli další turisté. Romantická dvojice u břehu jezera mi už tolik nevadila, tak jsem to cvaknul.
+
+<https://en.wikipedia.org/wiki/Djupvatnet>
+
+<https://www.tripadvisor.com/Attraction_Review-g190503-d21049002-Reviews-Djupvatnet-More_og_Romsdal_Western_Norway.html>
+
+<https://www.visitnorway.dk/listings/breheimen-nasjonalpark/233657/>
+
+<https://www.norgesnasjonalparker.no/en/nationalparks/breheimen/>
+
+<https://no.wikipedia.org/wiki/Breiddalen>
+
+<https://no.wikipedia.org/wiki/Skjerdingdalsbreen>
+
+<https://no.wikipedia.org/wiki/Otta>
+
