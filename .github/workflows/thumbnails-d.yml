@@ -3,7 +3,7 @@ name: Generate image thumbnails for dahlinka
 on:
   push:
     paths:
-      - "images/**"
+      - "dahlinka/**"
       - ".github/workflows/thumbnails-d.yml"
   workflow_dispatch:
 
@@ -27,7 +27,7 @@ jobs:
         run: |
           mkdir -p thumbs-d
 
-          find images -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | while read img; do
+          find dahlinka -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | while read img; do
             filename="$(basename "$img")"
             name="${filename%.*}"
             ext="${filename##*.}"
