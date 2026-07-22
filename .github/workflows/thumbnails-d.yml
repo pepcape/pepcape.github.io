@@ -1,0 +1,50 @@
+name: Generate image thumbnails for dahlinka
+
+on:
+  push:
+    paths:
+      - "images/**"
+      - ".github/workflows/thumbnails-d.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  thumbnails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Generate thumbnails
+        run: |
+          mkdir -p thumbs-d
+
+          find images -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | while read img; do
+            filename="$(basename "$img")"
+            name="${filename%.*}"
+            ext="${filename##*.}"
+
+            # Náhled bude mít šířku 600 px, výška se dopočítá automaticky.
+            # Strip odstraní metadata, auto-orient respektuje orientaci z EXIF.
+            magick "$img" -auto-orient -resize 26% -strip "thumbs-d/${name}.jpg"
+          done
+
+      - name: Commit generated thumbnails
+        run: |
+          if [ -n "$(git status --porcelain thumbs-d)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add thumbs-d
+            git commit -m "Generate image thumbnails dahlinka"
+            git push
+          else
+            echo "No thumbnail changes to commit."
+          fi
