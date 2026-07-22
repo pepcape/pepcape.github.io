@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-primer
+layout: jekyll-theme-cayman
 title: Dáhlinka
 ---
 
@@ -20,7 +20,7 @@ title: Dáhlinka
 
 .caption {
   margin-top: 6px;
-  font-size: 0.8em;
+  font-size: 0.9em;
   line-height: 1.35;
 }
 </style>
