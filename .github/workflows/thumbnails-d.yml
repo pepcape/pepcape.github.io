@@ -34,7 +34,7 @@ jobs:
 
             # Náhled bude mít rozliseni 520x390 nebo 390x520.
             # Strip odstraní metadata, auto-orient respektuje orientaci z EXIF.
-            magick "$img" -auto-orient -resize 26% -strip "thumbs-d/${name}.jpg"
+            convert "$img" -auto-orient -resize 26% -strip "thumbs-d/${name}.jpg"
           done
 
       - name: Commit generated thumbnails
