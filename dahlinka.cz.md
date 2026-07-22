@@ -53,10 +53,30 @@ title: Dáhlinka
 
 <div class="photo-card">
   <a href="dahlinka/2026-05-19 IMG_0450_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0450_2k.jpg" alt="Miluju kvétiny (Delosperma congestum 'Gold Nugget')" loading="lazy">
+    <img src="thumbs-d/2026-05-19 IMG_0450_2k.jpg" alt="Miluju květiny (Delosperma congestum 'Gold Nugget')" loading="lazy">
   </a>
   <div class="caption">
-    <strong>Miluju kvétiny (Delosperma congestum 'Gold Nugget')</strong><br>
+    <strong>Miluju květiny (Delosperma congestum 'Gold Nugget')</strong><br>
+    Faustův dům
+  </div>
+</div>
+
+<div class="photo-card">
+  <a href="dahlinka/2026-05-19 IMG_0455_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0455_2k.jpg" alt="Happiness" loading="lazy">
+  </a>
+  <div class="caption">
+    <strong>Happiness</strong><br>
+    Faustův dům
+  </div>
+</div>
+
+<div class="photo-card">
+  <a href="dahlinka/2026-05-19 IMG_0480_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0480_2k.jpg" alt="Je o mne zájem!" loading="lazy">
+  </a>
+  <div class="caption">
+    <strong>Je o mne zájem!</strong><br>
     Faustův dům
   </div>
 </div>
