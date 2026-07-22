@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: jekyll-theme-primer
 title: Dáhlinka
 ---
 
@@ -20,14 +20,14 @@ title: Dáhlinka
 
 .caption {
   margin-top: 6px;
-  font-size: 0.9em;
+  font-size: 0.8em;
   line-height: 1.35;
 }
 </style>
 
 # Dáhlinka
 
-(c) 2026 texty i foto: Josef Pelikán
+(c) 2026 texty i foto: Josef Pelikán, skřítek [@drac_keramika](https://www.instagram.com/drac_keramika/)
 
 <div class="gallery">
 

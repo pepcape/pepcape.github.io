@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Roztáhne hlavní obsah u většiny GitHub Pages témat */
+.wrapper,
+.container,
+.main-content,
+.markdown-body {
+  max-width: 1400px;
+}
+
+/* Pro galerii klidně ještě širší využití */
+.gallery {
+  max-width: none;
+}
