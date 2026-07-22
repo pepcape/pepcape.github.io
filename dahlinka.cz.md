@@ -20,7 +20,7 @@ title: Dáhlinka
 
 .caption {
   margin-top: 6px;
-  font-size: 0.95em;
+  font-size: 0.9em;
   line-height: 1.35;
 }
 </style>
@@ -47,6 +47,16 @@ title: Dáhlinka
   </a>
   <div class="caption">
     <strong>Tady se mi líbilo!</strong><br>
+    Faustův dům
+  </div>
+</div>
+
+<div class="photo-card">
+  <a href="dahlinka/2026-05-19 IMG_0450_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0450_2k.jpg" alt="Miluju kvétiny (Delosperma congestum 'Gold Nugget')" loading="lazy">
+  </a>
+  <div class="caption">
+    <strong>Miluju kvétiny (Delosperma congestum 'Gold Nugget')</strong><br>
     Faustův dům
   </div>
 </div>

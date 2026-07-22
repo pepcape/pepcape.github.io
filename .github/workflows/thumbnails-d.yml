@@ -32,9 +32,9 @@ jobs:
             name="${filename%.*}"
             ext="${filename##*.}"
 
-            # Náhled bude mít rozliseni 520x390 nebo 390x520.
+            # Náhled bude mít rozliseni 400x300 nebo 300x400.
             # Strip odstraní metadata, auto-orient respektuje orientaci z EXIF.
-            convert "$img" -auto-orient -resize 26% -strip "thumbs-d/${name}.jpg"
+            convert "$img" -auto-orient -resize 20% -strip "thumbs-d/${name}.jpg"
           done
 
       - name: Commit generated thumbnails
