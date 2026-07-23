@@ -36,31 +36,11 @@ layout: jekyll-theme-cayman
 <div class="gallery">
 
 <div class="photo-card">
-  <a href="dahlinka/2026-05-19 IMG_0408_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0408_2k.jpg" alt="Dálinka se představuje" loading="lazy">
+  <a href="dahlinka/2026-05-19 IMG_0480_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0480_2k.jpg" alt="Je o mne zájem!" loading="lazy">
   </a>
   <div class="caption">
-    <strong>Dálinka se představuje, plná optimismu</strong><br>
-    Faustův dům
-  </div>
-</div>
-
-<div class="photo-card">
-  <a href="dahlinka/2026-05-19 IMG_0443_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0443_2k.jpg" alt="Tady se mi líbilo!" loading="lazy">
-  </a>
-  <div class="caption">
-    <strong>Tady se mi líbilo!</strong><br>
-    Faustův dům
-  </div>
-</div>
-
-<div class="photo-card">
-  <a href="dahlinka/2026-05-19 IMG_0450_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0450_2k.jpg" alt="Miluju květiny (Delosperma congestum 'Gold Nugget')" loading="lazy">
-  </a>
-  <div class="caption">
-    <strong>Miluju květiny (Delosperma congestum 'Gold Nugget')</strong><br>
+    <strong>Je o mne zájem!</strong><br>
     Faustův dům
   </div>
 </div>
@@ -76,11 +56,31 @@ layout: jekyll-theme-cayman
 </div>
 
 <div class="photo-card">
-  <a href="dahlinka/2026-05-19 IMG_0480_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0480_2k.jpg" alt="Je o mne zájem!" loading="lazy">
+  <a href="dahlinka/2026-05-19 IMG_0450_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0450_2k.jpg" alt="Miluju květiny (Delosperma congestum 'Gold Nugget')" loading="lazy">
   </a>
   <div class="caption">
-    <strong>Je o mne zájem!</strong><br>
+    <strong>Miluju květiny (Delosperma congestum 'Gold Nugget')</strong><br>
+    Faustův dům
+  </div>
+</div>
+
+<div class="photo-card">
+  <a href="dahlinka/2026-05-19 IMG_0443_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0443_2k.jpg" alt="Tady se mi líbilo!" loading="lazy">
+  </a>
+  <div class="caption">
+    <strong>Tady se mi líbilo!</strong><br>
+    Faustův dům
+  </div>
+</div>
+
+<div class="photo-card">
+  <a href="dahlinka/2026-05-19 IMG_0408_2k.jpg">
+    <img src="thumbs-d/2026-05-19 IMG_0408_2k.jpg" alt="Dálinka se představuje" loading="lazy">
+  </a>
+  <div class="caption">
+    <strong>Dálinka se představuje, plná optimismu</strong><br>
     Faustův dům
   </div>
 </div>
