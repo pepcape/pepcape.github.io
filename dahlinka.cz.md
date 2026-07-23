@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-cayman
+layout: default
 title: Dáhlinka
 ---
 
@@ -26,6 +26,10 @@ title: Dáhlinka
 </style>
 
 # Dáhlinka
+
+<!--
+layout: jekyll-theme-cayman
+-->
 
 (c) 2026 texty i foto: Josef Pelikán, skřítek [@drac_keramika](https://www.instagram.com/drac_keramika/)
 
