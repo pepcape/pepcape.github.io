@@ -566,3 +566,26 @@ Nejkrásnější jezero se ovšem objevilo až kousek před sjezdem dolů do Gei
 
 <https://no.wikipedia.org/wiki/Otta>
 
+---
+
+![Trollstigen](media/31-2025-08-19_152300_2k.jpg)
+
+## NO Týden 31: Trollstigen
+
+Geiranger měla být další pěkná zastávka na mé cestě, bohužel byla špatná viditelnost: mlha a déšť. S tím musíte v Norsku počítat, příroda vás odmění jen někdy. Ani město Ålesund jsem si pak úplně neužil, odpočíval jsem po dlouhém přejezdu.
+
+Až další den jsem přejížděl do Åndalsnes - resp. do ubytování o jeden fjord dál - a po cestě se počasí umoudřilo. Nejmarkantnější byly změny počasí v okamžiku, kdy jsem zastavil nad slavnou vyhlídkou Trollstigen s vodopády a velkými serpentinami. Byl jsem optimista a vylezl jsem z auta ještě když jsme byli v mracích. Když jsem docházel na pár set metrů vzdálené vyhlídky, mraky začaly ustupovat a já už tušil, že dnes něco pěkného uvidím a nafotím.
+
+Na fotografii v kalendáři vidíte pohled na serpentiny a do údolí řeky Istra, kterou jsem později sledoval až do jejího konce v řece Rauma, vlévající se do Isfjordalen poblíž města Åndalsnes. To není na fotografii zřetelně vidět, ale můžete to tušit tam v dálce.
+
+Výhledy na všechny strany jsem se kochal asi hodinu, byl vidět nedaleký vrchol s působivými skalami Bispen (1462m), několik menších vodopádů a čilý automobilový ruch na serpentinách Isterdalsvegen. Občas se opravdu musel provoz zastavit a počkat, až se nějaký delší autobus opatrně vytočí v jedné z ostrých zatáček.
+
+<https://no.wikipedia.org/wiki/Isfjorden_(fjord_i_Rauma)>
+
+<https://no.wikipedia.org/wiki/Trollstigvegen>
+
+<https://www.fjordnorway.com/en/see-and-do/national-tourist-route-trollstigen>
+
+<https://www.visitnorway.com/listings/the-bishop-s-hike-to-bispen/271661/>
+
+<https://www.europeanwaterfalls.com/waterfalls/stigfossen-trollstigen/>
