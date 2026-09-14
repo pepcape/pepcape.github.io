@@ -77,10 +77,10 @@ layout: jekyll-theme-cayman
 
 <div class="photo-card">
   <a href="dahlinka/2026-05-19 IMG_0408_2k.jpg">
-    <img src="thumbs-d/2026-05-19 IMG_0408_2k.jpg" alt="Dálinka se představuje" loading="lazy">
+    <img src="thumbs-d/2026-05-19 IMG_0408_2k.jpg" alt="Dáhlinka se představuje" loading="lazy">
   </a>
   <div class="caption">
-    <strong>Dálinka se představuje, plná optimismu</strong><br>
+    <strong>Dáhlinka se představuje, plná optimismu</strong><br>
     Faustův dům
   </div>
 </div>
