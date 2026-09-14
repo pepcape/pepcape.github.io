@@ -589,3 +589,178 @@ Výhledy na všechny strany jsem se kochal asi hodinu, byl vidět nedaleký vrch
 <https://www.visitnorway.com/listings/the-bishop-s-hike-to-bispen/271661/>
 
 <https://www.europeanwaterfalls.com/waterfalls/stigfossen-trollstigen/>
+
+---
+
+![Romsdalsfjorden from Nesaksla](media/32-2025-08-20_124324 IMG_4701_2k.jpg)
+
+## NO Týden 32: Romsdalsfjorden from Nesaksla
+
+Přímo v Åndalsnes jsem nebydlel, ale udělal jsem si tam výlet. Lanovkou jsem vyjel na kopec Nesaksla (715 metrů), užil výhledy do několika stran a fotil Romsdalsfjorden i údolí Romsdalen, odkud jsem předchozí den přijel. Na vrcholu je východiště několika pěších túr a též možnost sejít dolů do údolí po jedné z dvou ferrat. Neměl jsem ideální počasí (okolní vrcholy v mracích) ani dostatečně dobré boty, tak jsem jen udělal krátký okruh na vrcholu a dolů sjel opět lanovkou. Pokud byste Åndalsnes navštívili za lepšího počasí, lépe vybaveni a v lepší fyzické formě, určitě si nějaký lepší výlet naplánujte!
+
+Ve městě končí železniční trať "Raumabanen railway", měl jsem štěstí a mohl jsem se podívat na zlatý vlak, který zrovna přijel. Vypadá to, že "Rauma Line" je jedna z nejkrásnějších tratí v Evropě. Jízda po 114km dlouhé trati trvá méně než dvě hodiny a musí to být skvělý zážitek.
+
+<https://en.wikipedia.org/wiki/%C3%85ndalsnes>
+
+<https://www.fjordtours.com/en/norway/places-to-visit/fjords/romsdalsfjord>
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/northwest/andalsnes/>
+
+<https://en.wikipedia.org/wiki/%C3%85ndalsnes_Station>
+
+<https://www.visitnorway.com/plan-your-trip/getting-around/by-train/rauma-line/>
+
+<https://www.sj.no/en/strekning/raumabanen-2/>
+
+<https://www.instagram.com/thegoldentrain>
+
+---
+
+![Storsvingen](media/33-2025-08-20_163856_2k.jpg)
+
+## NO Týden 33: Storsvingen
+
+Podle mraků na fotografii už jste si možná domysleli, že jsme pořád nedaleko Åndalsnes v prostoru i čase. Vyjel jsem si obhlédnout Eresfjord a nevyužít přitom trajekt Åfarnes ferjekai. Objevil jsem například malé lyžařské středisko Vistdalsheia s několika běžkařskými okruhy (není na fotce).
+
+Ale ostrá zatáčka s odpočívadlem se už do kalendáře dostala. Zejména díky krásnému výhledu na jihovýchod s horou Goksøyra (1337 m) a jezerem Eikesdalsvatnet. Jedno z barevných jízdních kol propagujících cyklistiku (viz odkaz dole - Bygda Rundt) ještě vylepšilo ten pěkný snímek.
+
+<https://climbfinder.com/en/climbs/vistdalsheia-eresfjord>
+
+<https://morotur.no/tur/lysloeypa-vistdalsheia>
+
+<https://en.wikipedia.org/wiki/Eresfjorden>
+
+<https://www.alltrails.com/norway/more-og-romsdal/eresfjord>
+
+<https://www.eresfjord.no/sykkelbygda-eresfjord>
+
+<https://www.eresfjord.no/lagorg/eresfjord-il/bygda-rundt>
+
+<https://en.wikipedia.org/wiki/Eikesdalsvatnet>
+
+<https://dovrefjell-sunndalsfjella.no/en/approaches-and-starting-points/eikesdal/>
+
+---
+
+![Atlanterhavsvegen](media/34-2025-08-21_140102 IMG_4866_2k.jpg)
+
+## NO Týden 34: Atlanterhavsvegen
+
+Další úsek mé cesty vedl do Kristiansundu a bylo mou povinností použít silnici č. 64 se slavnou Atlantickou cestou (Atlanterhavsvegen) a ikonickým mostem Storseisundbrua. Měl jsem slušné počasí, tak jsem se zastavil na parkovišti Skipsholmen a prohlédl si okolí. Mosty, malé ostrůvky, příboj, z jedné strany Norské moře a z druhé klidnější Kornstadfjorden. Rozhodně to místo stojí za návštěvu, jen pozor v chladnějších ročních obdobích. Při silném větru mohou vlny stříkat přes silnici a mosty a cesta se občas pro špatné počasí zavírá.
+
+Ještě lepší záběry Atlantické cesty pořídíte dronem, viz odkazy níže.
+
+<https://en.wikipedia.org/wiki/Atlantic_Ocean_Road>
+
+<https://en.wikipedia.org/wiki/Norwegian_County_Road_64>
+
+<https://no.wikipedia.org/wiki/Storseisundbrua>
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/northwest/scenic-route-atlantic-road/>
+
+<https://www.visitnorway.com/listings/norwegian-scenic-routes-the-atlantic-road/26864/>
+
+<https://www.colorfuljourneys.com/articles/atlantic-ocean-road-norway>
+
+---
+
+![Kristiansund](media/35-2025-08-22_093849_2k.jpg)
+
+## NO Týden 35: Kristiansund
+
+Kristiansund je velmi zajímavé město, nachází se na několika ostrovech propojených mosty a lodní dopravou - nejstarší veřejnou dopravou na světě - Sundbåten (od roku 1876). Funguje dodnes, ale já ji nevyzkoušel, protože jsem měl jiné plány. Prohlédl jsem si přístav, zajímavou budovu Campus Kristiansund, zašel k malému majáku a vypravil se na výlet lodí. Tomu všemu bude věnováno několik příštích týdnů kalendáře, vypadá to, že jsem si Kristiansund oblíbil.
+
+Na fotografii je molo Piret se sochou Klippfiskkjerringa (Clipfish Woman), vytvořenou na počest dlouhé tradice lovu a zpracování ryb. "Klippfisk" je technologie konzervace, která spočívá v nasolení, usušení a slisování ryb, zejména různých druhů tresek. Žena drží v pravé ruce právě takto zpracovanou rybu.
+
+<https://www.visitnorway.com/listings/sundbaten-the-harbour-ferry/26822/>
+
+<https://www.sundbaten.no/en>
+
+<https://www.visitnorway.com/listings/klippfiskkjerringa-sculpture/234148/>
+
+<https://www.fjordnorway.com/en/inspiration/day-trips/kristiansund/experience-the-clipfish-town>
+
+<https://www.instagram.com/sundbaten>
+
+---
+
+![Grip fyrstasjon](media/36-2025-08-22_110737 IMG_5136_2k.jpg)
+
+## NO Týden 36: Grip fyrstasjon
+
+Asi nejzajímavějším výletem v Kristiansundu byl výlet malou lodí na ostrov Grip. Odjíždí se z mola Piret (viz foto z minulého týdne), loď se jmenuje MS Kvikk a cesta na Grip trvá přibližně 35 minut, podle počasí.
+
+Na fotografii je maják Grip fyrstasjon vysoký 44m postavený na útesu Bratthårskollen, v provozu od roku 1888. Bylo obtížné tam sloužit, hlavně pro drsné podmínky a špatnou obsluhu z pevniny. Od roku 1977 byl maják automatizován a dnes je již bez trvalé lidské obsluhy, detaily a další historky si můžete přečíst na webové stránce v posledním odkazu.
+
+Fotografie byla pořízena ze severní části ostrova Grip, přibližně z místa označeného Hotta.
+
+<https://www.gripruta.no/en>
+
+<https://www.gripruta.no/en/trips>
+
+<https://www.marinetraffic.com/en/ais/details/ships/shipid:306578/mmsi:257398700/imo:0/vessel:KVIKK>
+
+<https://www.kystverket.no/kystkultur/fyrstasjoner/grip-fyr/>
+
+<https://www.instagram.com/gripruta>
+
+---
+
+![Grip](media/37-2025-08-22_111431_2k.jpg)
+
+## NO Týden 37: Grip
+
+Grip je ostrov s dlouhou rybářskou historií. Obyvatelé měli těžký život a denně bojovali s drsnou přírodou. Skoro všichni muži jezdili na moře lovit ryby. Pokud se přihnala silná bouře, nezřídka se domů nevrátili všichni, o extrémních případech vyprávějí kroniky:
+
+23. února 1625 zasáhl orkán na Foldě rybářskou flotilu tak silně, že se domů nevrátil ani jeden muž z Gripu schopný rybolovu - šlo o 210 mužů, děti a matky zůstávaly doma. Vdovy se často později znova vdávaly a umožnily tak zachovat kontinuitu svých rodin.
+
+Kolem roku 1640 postihla Grip mimořádná "mořská pohroma" ("HavsVaade" - detailní popis, o jakou kombinaci ničivých sil se jednalo, archivy neuvádějí), při níž zahynula většina místních rybářů, byl poničen přístav a většina větších lodí prakticky přestala existovat.
+
+Ostrov pro mne představuje symbol norů žijících v drsné přírodě, kteří se těžce rvou o své živobytí a neustále chovají k přírodě velký respekt.
+
+Na fotografii je jedna z malebných uliček ostrova s barevnými domky, dnes již dobře rekonstruovanými a moderně vybavenými.
+
+<https://en.wikipedia.org/wiki/Grip,_Norway>
+
+<https://www.gripruta.no/en/trips>
+
+<https://skillingsviser.no/dodskampen-pa-foldahavet/>
+
+<https://no.wikisource.org/wiki/Bidrag_til_Christianssunds_Historie_indtil_1814>
+
+<https://lokalhistoriewiki.no/Grip>
+
+<https://www.instagram.com/gripruta>
+
+---
+
+![Elementer, Grip](media/38-2025-08-22_122207 IMG_5241_2k.jpg)
+
+## NO Týden 38: Elementer, Grip
+
+Tato fotografie ilustruje sílu mořských živlů (vody, větru), které se projevovaly i v relativně klidném dnu uprostřed léta 2025. Na ostrov jsme jeli menší lodí MS Kvikk (66 stop, další parametry viz odkaz) a neměli jsme žádné problémy - jen lidé se slabším žaludkem si museli dávat pozor.
+
+Do severní části ostrova Grip se jménem Notbeget mne přilíkaly právě vlnolamy, o které se tříštily vlny. Došel jsem až skoro na konec vlnolamu "Kvalhaue" a trpělivě natáčel videa a fotografoval, výsledkem je jedna z fotografií v kalendáři ukazující sílu živlů.
+
+<https://www.gripruta.no/en>
+
+<https://www.gripruta.no/en/trips>
+
+<https://www.marinetraffic.com/en/ais/details/ships/shipid:306578/mmsi:257398700/imo:0/vessel:KVIKK>
+
+---
+
+![Grip](media/39-2025-08-22_124409_2k.jpg)
+
+## NO Týden 39: Grip
+
+Na ostrově Grip se rybářství provozuje dodnes. Strávil jsem tam pár hodin, prohlédl si kostel (Grip stave church) a vyslechl si tam našeho průvodce. Ve zbytku času jsem chodil po ostrůvku a užíval si dalších míst a scenérií. Malá hasičská stanice je zajímavá, i obchod (Grip kro) nebo fotbalové hřiště stojí za návštěvu.
+
+Mne zaujal pohled na malou zátoku se zaparkovaným člunem, a tak se do kalendáře dostala právě tato fotografie.
+
+<https://www.gripruta.no/en>
+
+<https://en.wikipedia.org/wiki/Grip,_Norway>
+
+<https://no.wikipedia.org/wiki/Grip_stavkirke>
+
