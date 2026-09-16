@@ -712,7 +712,7 @@ Fotografie byla pořízena ze severní části ostrova Grip, přibližně z mís
 
 Grip je ostrov s dlouhou rybářskou historií. Obyvatelé měli těžký život a denně bojovali s drsnou přírodou. Skoro všichni muži jezdili na moře lovit ryby. Pokud se přihnala silná bouře, nezřídka se domů nevrátili všichni, o extrémních případech vyprávějí kroniky:
 
-23. února 1625 zasáhl orkán na Foldě rybářskou flotilu tak silně, že se domů nevrátil ani jeden muž z Gripu schopný rybolovu - šlo o 210 mužů, děti a matky zůstávaly doma. Vdovy se často později znova vdávaly a umožnily tak zachovat kontinuitu svých rodin.
+23\. února 1625 zasáhl orkán na Foldě rybářskou flotilu tak silně, že se domů nevrátil ani jeden muž z Gripu schopný rybolovu - šlo o 210 mužů, děti a matky zůstávaly doma. Vdovy se často později znova vdávaly a umožnily tak zachovat kontinuitu svých rodin.
 
 Kolem roku 1640 postihla Grip mimořádná "mořská pohroma" ("HavsVaade" - detailní popis, o jakou kombinaci ničivých sil se jednalo, archivy neuvádějí), při níž zahynula většina místních rybářů, byl poničen přístav a většina větších lodí prakticky přestala existovat.
 
