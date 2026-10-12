@@ -764,3 +764,60 @@ Mne zaujal pohled na malou zátoku se zaparkovaným člunem, a tak se do kalend�
 
 <https://no.wikipedia.org/wiki/Grip_stavkirke>
 
+---
+
+![Kristiansund](media/40-2025-08-22_134107_2k.jpg)
+
+## NO Týden 40: Kristiansund
+
+Zpět v Kristiansundu: když jsem se procházel po nábřeží, zaujala mne budova Campusu Kristiansund. Je zajímavá nejen zvenku, ale má zajímavé atrium. Soustředí se tu výuka několika - zejména bakalářských - oborů, detaily si můžete přečíst na webu nebo Instagramu.
+
+Ikonická fasáda Campusu zaujala tvůrce Euro Truck Simulatoru natolik, že její model zahrnuli do mapy města Kristiansund, viz rozšíření Nordic Horizons.
+
+Před vchodem do Campusu stojí socha místního rodáka Ole Gunnara Solskjæra, fotbalisty, trenéra a fotbalového manažera, který působil mj. v klubu Manchester United.
+
+<https://www.campusksu.no/>
+
+<https://eurotrucksimulator2.com/nordic_horizons/>
+
+<https://www.instagram.com/campuskristiansund>
+
+---
+
+![Kristiansund](media/41-2025-08-22_142006_2k.jpg)
+
+## NO Týden 41: Kristiansund
+
+Poslední fotografie z Kristiansundu byla pořízena na vrcholu ulice Hauggata poblíž památníku - děla, které připomíná bitvu 1808. Během napoleonských válek se zde nacházelo jedno z důležitých obranných stanovišť (Kommandør Tønders batteri). Dne 7. července 1808 odtud norské síly úspěšně pálily na britské válečné lodě (včetně fregaty Tartar) a odrazily britský útok na město. Dělo však není v našem záběru.
+
+Místo toho vidíte pohled na impozantní kostel Nordlandet kirke na protějším ostrově a za ním fjord Bolgsvaet. V popředí zrovna jede loď, která je součástí nejstarší veřejné dopravy Sundbåten - viz odkaz. Protože se Kristiansund nachází na několika ostrovech, jsou tyto lodě dodnes významnou součástí veřejné dopravy města.
+
+<https://www.visitnorway.com/listings/sundbaten-the-harbour-ferry/26822/>
+
+<https://www.sundbaten.no/en>
+
+<https://en.wikipedia.org/wiki/Dano-Swedish_War_(1808%E2%80%931809)>
+
+<https://www.visitnorway.com/listings/nordlandet-church/26841/>
+
+<https://en.wikipedia.org/wiki/Nordlandet_Church>
+
+---
+
+![Veiholmen](media/42-2025-08-23_150932_2k.jpg)
+
+## NO Týden 42: Veiholmen
+
+Z Kristiansundu mne čekala jen krátká cesta do Trondheimu, tak jsem zkoumal, co zajímavého po cestě navštívit. Do oka mi padl ostrov Smøla pokrytý mnoha rozsáhlými rašeliništi a na severu pokračující řetězem menších ostrůvků až do toho posledního jménem Veiholmen.
+
+Ve vesničce je mnoho zajímavých domů, přístavů a malebných zákoutí. Jednu z malých galerií vidíte na fotografii. V parčíku Dalaosen friområde jsem si sednul a snědl svůj oběd. Stoly byly vybaveny šachovnicemi a hracími deskami na vrhcáby, nic nenasvědčovalo tomu, že jsem se nacházel na konci souostroví daleko od pevniny.
+
+<https://en.wikipedia.org/wiki/Sm%C3%B8la_(island)>
+
+<https://en.wikipedia.org/wiki/Veiholmen>
+
+<https://www.fjordnorway.com/en/attractions/smola>
+
+<https://www.fjordnorway.com/en/inspiration/three-days-on-smola-and-veiholmen>
+
+<https://www.fjordnorway.com/en/inspiration/exposed-veiholmen>
