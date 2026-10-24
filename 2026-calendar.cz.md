@@ -821,3 +821,29 @@ Ve vesničce je mnoho zajímavých domů, přístavů a malebných zákoutí. Je
 <https://www.fjordnorway.com/en/inspiration/three-days-on-smola-and-veiholmen>
 
 <https://www.fjordnorway.com/en/inspiration/exposed-veiholmen>
+
+---
+
+![Formofossen](media/43-2025-08-25_153300 IMG_5773_2k.jpg)
+
+## NO Týden 43: Formofossen
+
+V Trondheimu jsem neměl štěstí na počasí, žádné pěkné fotky jsem nepořídil (bylo zde samozřejmě několik zajímavostí, které jsem navštívil - například přístav, pěknou botanickou zahradu nebo břehy řeky Nidelva).
+
+Moji další zastávkou směrem na sever Norska bylo městečko Grong s krásnou okolní krajinou, několika řekami s mnoha vodopády a výrazným údolím Namdalen. Vodopádů na mapě najdete desítky, já si vybral jeden, který sliboval velký zážitek - a zklamán jsem rozhodně nebyl.
+
+Formofossen je silný vodopád na řece Sanddøla-Sovvene, celková výška je 34 metrů. A protože zde má řeka velký průtok, pocítíte zblízka ohromnou sílu tekoucí a padající vody. Pokud byste byli odvážnější, můžete se přiblížit až na několik málo metrů od bouřící vody. Vytváří se tak výrazný mrak vodní tříště, že stačí, aby vám zasvítilo sluníčko a můžete hned obdivovat pěknou duhu. To se mi poštěstilo přibližně v 16h, další denní doba příznivá pro duhu by zřejmě byla dopoledne (viz mapu). Fotografie ukazuje horní část vodopádu ještě předtím, než vysvitlo slunce.
+
+<https://en.wikipedia.org/wiki/Grong_Municipality>
+
+<https://en.wikipedia.org/wiki/Namdalen>
+
+<https://biveros.com/grong-norway/>
+
+<https://samfunnprep.no/en/kommuneportal/5045-grong>
+
+<https://www.europeanwaterfalls.com/waterfalls/formofossen/>
+
+<https://www.world-of-waterfalls.com/waterfalls/norway-formofossen/>
+
+<https://no.wikipedia.org/wiki/Sandd%C3%B8la>
