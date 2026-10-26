@@ -847,3 +847,23 @@ Formofossen je silný vodopád na řece Sanddøla-Sovvene, celková výška je 3
 <https://www.world-of-waterfalls.com/waterfalls/norway-formofossen/>
 
 <https://no.wikipedia.org/wiki/Sandd%C3%B8la>
+
+---
+
+![Formofossen](media/44-2025-08-26_174413_2k.jpg)
+
+## NO Týden 44: Gløshaug kirke
+
+Z kempu v Grongu jsem objel pár zajímavých míst v údolí řeky Namsen, podle které je pojmenována celá oblast Namdalen. Řeka byla v minulosti užívaná pro plavení dřeva, ale dnes je hlavně známá jako jedno z nejlepších míst pro lov lososů.
+
+V průvodcích najdete několik položek: vodní elektrárna Øvre Fiskumfos se zajímavým velmi úzkým visutým mostem, peřej/vodopád Fiskemsfossen se zvláštními jezy a "rybím žebříkem", pomáhajícím rybám táhnout proti proudu kolem vodopádu. Lososí muzeum bylo v době mé návštěvy bohužel mimo sezónu, tak jsem se jenom prošel kolem.
+
+Pokud byste zde měli víc času a chuť na malý výlet, dá se obejít protější (levý) břeh řeky od Øvre Fiskumfos až k Fiskemsfossen a obdivovat řeku i její vodní díla zblízka. Já jsme si místo toho vybral nedaleký Gløshaug kirke nacházející se na pahorku nad údolím. Je to luteránský kostel patřící do diecéze Nidaros. Je otevřený pouze v době bohoslužeb, tak jsem si ho prohlédl zvenku a užil pěkné výhledy z tohoto tichého místa.
+
+<https://en.wikipedia.org/wiki/Namsen>
+
+<https://en.visitnamdalen.com/forside/hovedside/>
+
+<https://en.wikipedia.org/wiki/Gl%C3%B8shaug_Church>
+
+<https://en.wikipedia.org/wiki/Diocese_of_Nidaros>
