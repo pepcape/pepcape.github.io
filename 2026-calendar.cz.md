@@ -867,3 +867,37 @@ Pokud byste zde měli víc času a chuť na malý výlet, dá se obejít protěj
 <https://en.wikipedia.org/wiki/Gl%C3%B8shaug_Church>
 
 <https://en.wikipedia.org/wiki/Diocese_of_Nidaros>
+
+---
+
+![Namsentunet](media/45-2025-08-26_181853_2k.jpg)
+
+## NO Týden 45: Namsentunet
+
+Když jsem projížděl údolím řeky Namsen, zaujal mne vysoký železniční most a pod ním vikingská vesnička Namsentunet. Domky mají střechy porostlé travou a působí malebně, při bližším zkoumání však zjistíte, že je to turistické místo udržované tak, aby vzhledově připomínalo starobylou vikingskou vesnici.
+
+Dnes si tam můžete zamluvit ubytování a na podzim se třeba zúčastnit tzv. "Vikingské výzvy" (The Viking Challenge) založené na slavné staré výzvě "Macnab Challenge". Účastníci mají prokázat své lovecké schopnosti tím, že v průběhu jednoho dne - od úsvitu do soumraku - uloví losa, tetřeva hlušce a v řece Namsen chytí divokého lososa. Asi chápete, že se jedná o značně náročnou výzvu, zajímalo by mne, kolika lidem se ji podaří v jedné sezóně splnit?
+
+<https://namsentunet.no/en/home/>
+
+<https://www.visitnorway.com/listings/namsentunet-salmon-fishing-lodge/171746/>
+
+<https://williampowellsporting.co.uk/news/the-viking-challenge/>
+
+---
+
+![Velfjorden](media/46-2025-08-27_170314 IMG_6147_2k.jpg)
+
+## NO Týden 46: Velfjorden
+
+Cesta z Grongu do Mo i Rana byla dlouhá (400 km a v tom i jeden trajekt), ale přesto jsem se po cestě několikrát zastavil a obdivoval krásy přírody. Když jsem už kvečeru jel po silnici Velfjordvejen, tak jsem u odbočky na Navan viděl v zálivu pěknou loď. Nebyl jsem tak pohotový, abych zastavil hned, musel jsem jet pár set metrů dál, abych se otočil a vrátil.
+
+Bylo hrozně zajímavé pokusit se pomocí AI asistentek a jiných nástrojů loď identifikovat. Pokud se podíváme na bok lodi na přídi, poměrně zřetelně tam přečteme "F-12-VS" a z průzkumu vypadla tato nejpravděpodobnější identifikace:
+
+Rybářská dřevěná loď "Morild", volací znak LM6638, dlouhá 13.08 m, výtlak 21 tun, dříve pod znakem "F-12-VS", v současnosti má přidělenou registraci "T 0112L" (někdy se stylizuje jako "T-112-L"). Takže jsem nakonec s touto kráskou strávil delší čas doma u počítače, než jejím fotografováním a prohlížením v přírodě.
+
+![Morild](media/46-2025-08-27_170314 IMG_6146_detail.jpg)
+
+<https://fiskeriportalen.no/fiskebater/morild-t-0112l>
+
+<https://norske-postlister.no/sak/dir-fiskeri/2014/10013>
