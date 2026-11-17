@@ -901,3 +901,21 @@ Rybářská dřevěná loď "Morild", volací znak LM6638, dlouhá 13.08 m, výt
 <https://fiskeriportalen.no/fiskebater/morild-t-0112l>
 
 <https://norske-postlister.no/sak/dir-fiskeri/2014/10013>
+
+---
+
+![Sure Hotel, Mo i Rana](media/47-2025-08-28_083516_2k.jpg)
+
+## NO Týden 47: Sure Hotel, Mo i Rana
+
+V městě se zajímavým jménem Mo i Rana jsem strávil dvě noci v pěkném hotelu. Interiér by potěšil všechny milovníky železnice. Pokoje jsou označeny jmény lokálních železničních stanic nebo významnějšími zeměpisnými názvy. Můj pokoj se jmenoval Skonseng, vedlejší Drevja.
+
+Na vrátnici, na schodištích, v chodbách, všude najdete objekty s železniční tématikou, ale nejlépe byla vyzdobena jídelna, viz foto. Kuchyň hotelu si zaslouží další pochvalu, měl jsem tam jednu z nejlepších snídaní v Norsku.
+
+Ve městě jsem si prohlížel zejména pobřeží a zajímavou místní architekturu. Kousek od břehu je v moři umístěna jedenáctimetrová socha Havmannen ("The Man from the Sea"). Viděl jsem ji pouze za denního světla, vypadá to, že v noci je pěkně osvětlena. Poblíž sochy jsem si našel pevně instalované dřevěné lehátko, které bylo tak ohřáté sluncem (bylo to večer 28. 8.), že se na něm dala pohodlně strávit půlhodina čtením knihy.
+
+<https://www.bestwestern.com/en_US/book/hotels-in-mo-i-rana/sure-hotel-by-best-western-ole-tobias/propertyCode.73138.html>
+
+<https://en.wikipedia.org/wiki/Mo_i_Rana>
+
+<https://en.wikipedia.org/wiki/Havmannen>
