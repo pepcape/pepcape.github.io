@@ -26,7 +26,7 @@ SOURCE_MD = Path("2026-calendar.cz.md")
 PAGE_URL = "https://pepcape.github.io/2026-calendar.cz"
 
 # Kam ukládat vygenerované PNG soubory.
-OUTPUT_DIR = Path("cal26/qr")
+OUTPUT_DIR = Path("cal2026/qr")
 
 # Výsledná velikost PNG souboru v pixelech.
 IMAGE_SIZE = 256
