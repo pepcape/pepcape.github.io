@@ -9,6 +9,7 @@ title: Kalendář 2026 (DK, NO, SE)
 
 ![Title page](cal2026/00-2025-08-11_065246_2k.jpg)
 
+<a name="00"></a>
 ## 00. titulní stránka - Lysebotn
 
 Foceno 11. 8. 2025 v kempu v Lysebotn. Den předtím jsem dorazil autem po silnici 4224 (Lysevegen) se slavnými serpentinami a dokonce jednou otočkou uprostřed kopce (Lysetunnelen), ve které cesta klesne na 1103 metrech o cca 100 metrů. Bylo bohužel dost špatné počasí, fotit nemělo moc smysl.
@@ -27,6 +28,7 @@ Později cestou lodí do Flørli už tak pěkně nebylo. Ve Flørli jsem se šel
 
 ![Esbjerg, Men at Sea](cal2026/01-2025-08-02_085748.jpg)
 
+<a name="01"></a>
 ## DK Týden 01: Esbjerg, Men at Sea
 
 Esbjerg je město, které jsem v minulé výpravě vynechal, tentokrát jsem si tam naplánoval nocleh v autě v přístavu a návštěvu blízkého ostrova Fanø. Díky inspiraci od Jana Buriana, cestovatele, písničkáře, básníka a spisovatele, jsem navštívil i toto známé sousoší. Je obtížné ho za pěkného počasí vyfotografovat
@@ -888,6 +890,7 @@ Dnes si tam můžete zamluvit ubytování a na podzim se třeba zúčastnit tzv.
 
 ![Velfjorden](cal2026/46-2025-08-27_170314 IMG_6147_2k.jpg)
 
+<a name="46"></a>
 ## NO Týden 46: Velfjorden
 
 Cesta z Grongu do Mo i Rana byla dlouhá (400 km a v tom i jeden trajekt), ale přesto jsem se po cestě několikrát zastavil a obdivoval krásy přírody. Když jsem už kvečeru jel po silnici Velfjordvejen, tak jsem u odbočky na Navan viděl v zálivu pěknou loď. Nebyl jsem tak pohotový, abych zastavil hned, musel jsem jet pár set metrů dál, abych se otočil a vrátil.
@@ -906,6 +909,7 @@ Rybářská dřevěná loď "Morild", volací znak LM6638, dlouhá 13.08 m, výt
 
 ![Sure Hotel, Mo i Rana](cal2026/47-2025-08-28_083516_2k.jpg)
 
+<a name="47"></a>
 ## NO Týden 47: Sure Hotel, Mo i Rana
 
 V městě se zajímavým jménem Mo i Rana jsem strávil dvě noci v pěkném hotelu. Interiér by potěšil všechny milovníky železnice. Pokoje jsou označeny jmény lokálních železničních stanic nebo významnějšími zeměpisnými názvy. Můj pokoj se jmenoval Skonseng, vedlejší Drevja.
