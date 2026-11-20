@@ -1,0 +1,47 @@
+name: Generate QR codes 2026
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '2026-calendar.cz.md'
+      - 'scripts/generate_qr2026.py'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install segno pillow
+
+      - name: Generate QR codes
+        run: python scripts/generate_qr2026.py
+
+      - name: Commit generated QR codes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add cal2026/qr
+
+          if git diff --cached --quiet; then
+            echo "QR codes are already up to date."
+          else
+            git commit -m "Regenerate QR codes"
+            git push
+          fi
