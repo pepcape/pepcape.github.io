@@ -40,6 +40,7 @@ bez turistů.
 
 ![Sønderho](cal2026/02-2025-08-02_115102.jpg)
 
+<a id="02"></a>
 ## DK Týden 02: Sønderho
 
 Inspirován opět Janem Burianem jsem tentokrát zajel trajektem i na ostrov Fanø a tam navštívil vesnici Sønderho, prý nejkrásnější v Dánsku.
@@ -53,6 +54,7 @@ Pozn: to není ani jeden z domů na fotografii, ten jeho byl trochu méně fotog
 
 ![Sønderho Kirke](cal2026/03-2025-08-02_134252_2k.jpg)
 
+<a id="03"></a>
 ## DK Týden 03: Sønderho Kirke
 
 Na ostrově Fanø jsem došel až k tomuto kostelu, který se ukázal velmi zajímavým - je v něm umístěna nejrozsáhlejší sbírka votivních modelů lodí - je jich tam patnáct!
@@ -66,6 +68,7 @@ Varhany z roku 2006 jsou umístěny v přízemí, tak si je můžete dobře proh
 
 ![Løkken](cal2026/04-2025-08-03_120952_2k.jpg)
 
+<a id="04"></a>
 ## DK Týden 04: Løkken
 
 Původně rybářské městečko s krásnými plážemi, bunkry a dunami. Minule jsem ho nenavštívil, tak jsem se tam tentokrát zastavil na cestě z Thorup Strand do Aalborgu. To je opravdu krátká cesta, takže jsem mohl v Løkken strávit několik hodin. Procházel jsem se hlavně poblíž moře, protože to mám nejradši. Došel jsem od Sømærket (navigační věž) až k Løkken vandtårn (vodárenská věž). Fotografie je pořízená poblíž Faresignalstationen (stanice pro signalizaci nebezpečí).
@@ -82,6 +85,7 @@ Zajímavý zážitek z přístavu popíšu za týden.
 
 ![Boat winching, Løkken Mole](cal2026/05-2025-08-03_132524_2k.jpg)
 
+<a id="05"></a>
 ## DK Týden 05: Boat winching, Løkken Mole
 
 Když najdete na letecké mapě Løkken Mole, všimněte si i lodí vytažených na břeh. Jednoho takového vytahování jsem byl svědkem. Podle množství okukujících lidí - turistů i místních - to je jen občasná podívaná.
@@ -94,6 +98,7 @@ Loď FN437 Bihama nejdřív přijela k molu (na severovýchodní straně, která
 
 ![Hjelmerstald, Aalborg](cal2026/06-2025-08-04_173949.jpg)
 
+<a id="06"></a>
 ## DK Týden 06: Hjelmerstald, Aalborg
 
 Na radu kamarádky Denisy jsem v Aalborgu navštívil Salling Rooftop (odtud se fotka do kalendáře nedostala) a hned kousek vedle známou historickou uličku Hjelmerstald. Bývá tu hodně turistů, ale já jsem měl štěstí a procházel se tam skoro sám. Skutečně tu bydlí lidé a sem tam tu objevíte krámek se starožitnostmi nebo bleší trh. Jméno uličky je odvozeno od faktu, že tu bývaly koňské stáje.
@@ -108,6 +113,7 @@ Na radu kamarádky Denisy jsem v Aalborgu navštívil Salling Rooftop (odtud se 
 
 ![Den klodsede by, Utzon Center, Aalborg](cal2026/07-2025-08-05_140144.jpg)
 
+<a id="07"></a>
 ## DK Týden 07: Den klodsede by, Utzon Center, Aalborg
 
 V Aalborgu jsem navštívil skvělé Utzon Center, ale nedávám sem žádnou obvyklou fotku střechy s válcovými plochami. Místo toho je tu zobrazen prostor, tak typický pro Dánsko -
@@ -127,6 +133,7 @@ Centrum má i svou restauraci, která se jmenuje Jørn.
 
 ![Jomfru Ane Gade, Aalborg](cal2026/08-2025-08-04_181411.jpg)
 
+<a id="08"></a>
 ## DK Týden 08: Jomfru Ane Gade, Aalborg
 
 V Aalborgu jsem přespával v malém hotelu v ulici "Panny Anny" a byl jsem skutečně v centru dění. Ubytování nebylo drahé a já až na místě pochopil příčinu - ulička žije bohatým nočním životem, bez špuntů do uší se tu moc nevyspíte. Není neobvyklé, že ve tři hodiny ráno si maník na ulici přinese bednu Marshall, připojí elektrickou kytaru a hraje tak nahlas, aby to nikomu v ulici neušlo.
@@ -140,9 +147,11 @@ Dvě noci jsem tu přečkal a večer mohl nasávat atmosféru této legendární
 ---
 
 ![Skagen Odde](cal2026/09-2025-08-05_203352.jpg)
+
+<a id="09"></a>
 ## DK Týden 09: Skagen Odde
 
-Toto geograficky zajímavé místo jsem při minulé návštěvě Dánska vynechal, tak jsem to musel napravit: stýkají se tu Severní moře (průliv Skagerrak) a Baltské moře (průliv Kattegat). Obě moře mají různou teplotu, salinitu a hustotu a na mysu Grenen je občas vidět jejich rozdílná barva  - tu na mé fotce nevidíte. Skoro vždy však můžete pozorovat dva příboje, jak do sebe zuřivě naráží - Skagerrak ze severu a Kattegat z jihovýchodu. Vlastní mys se díky sedimentům posunuje přibližně o šest metrů každým rokem a postupně tak zužuje průliv Kattegat. Je to jedno z míst, kde fotografie nedokáže plně zachytit atmosféru - sílu živlů, barvy moří, hluk příboje. Vlny do sebe narážejí s takovou zuřivostí, jakoby věděly, že v příštích sekundách se jejich energie eliminuje, a tak se aspoň naposledy předvedou.
+Toto geograficky zajímavé místo jsem při minulé návštěvě Dánska vynechal, tak jsem to musel napravit: stýkají se tu Severní moře (průliv Skagerrak) a Baltské moře (průliv Kattegat). Obě moře mají různou teplotu, salinitu a hustotu a na mysu Grenen je občas vidět jejich rozdílná barva - tu na mé fotce nevidíte. Skoro vždy však můžete pozorovat dva příboje, jak do sebe zuřivě naráží - Skagerrak ze severu a Kattegat z jihovýchodu. Vlastní mys se díky sedimentům posunuje přibližně o šest metrů každým rokem a postupně tak zužuje průliv Kattegat. Je to jedno z míst, kde fotografie nedokáže plně zachytit atmosféru - sílu živlů, barvy moří, hluk příboje. Vlny do sebe narážejí s takovou zuřivostí, jakoby věděly, že v příštích sekundách se jejich energie eliminuje, a tak se aspoň naposledy předvedou.
 
 Z fotografie je vidět, že nebylo ideální počasí, poprchávalo a byl silný vítr. Na konci cesty se mraky aspoň trošku protrhly, to byla dostatečná odměna za 1500m dlouhou procházku pískem, mokré boty i nohavice.
 
@@ -161,6 +170,8 @@ Pár kilometrů podél Kattegat se nachází druhý nejvyšší dánský maják 
 ---
 
 ![Trajekt do NO](cal2026/10-2025-08-06_093853__01.jpg)
+
+<a id="10"></a>
 ## DK Týden 10: Trajekt do NO
 
 Z dánského přístavu Hirsthals jsem se plavil trajektem do norského Kristiansandu. Jeli jsme lodí MS Stavangerfjord a už před vyplutím to maličko zavánělo dobrodružstvím - kvůli předpovědi počasí v Skagerraku bylo vyplutí posunuto na dřívější hodinu, počasí se mělo postupně zhoršovat a později už by to mohlo být méně bezpečné či méně pohodlné. To jsem přivítal, protože jsem si přál zjistit, jak to mám s mořskou nemocí. Teď už mám jasno...
@@ -174,6 +185,8 @@ Veliká loď ovšem skýtá dostatek komfortu a jen velké vlny ji mohou rozhoup
 ---
 
 ![Draumkvedet by Torvald Moseid (Kunstsilo)](cal2026/11-2025-08-06_170720.jpg)
+
+<a id="11"></a>
 ## NO Týden 11: Draumkvedet by Torvald Moseid (Kunstsilo)
 
 Padesét pět metrů dlouhé vyšívané dílo, na kterém pracoval Torvald Moseid čtrnáct let a byl to jeho poslední monumentální počin. Zvolil jsem ho jako reprezentativní (a velice zajímavý) umělecký objekt umístěný ve slavném Kunstsilu.
@@ -199,6 +212,8 @@ Zatím si můžete pustit skvělé video Adama Gebriana, musím vás však varov
 ---
 
 ![Brasserie, Kunstsilo](cal2026/12-2025-08-06_181537_2k.jpg)
+
+<a id="12"></a>
 ## NO Týden 12: Brasserie, Kunstsilo
 
 Ještě jeden týden se budu věnovat Kunstsilu v Kristiansandu. Nahoře nad původní stavbou sila byla vybudována prosvětlená "Brasseri", kde si můžete dát kávu nebo oběd. Pokud máte pěkné počasí (jako já), budete se pravděpodobně chtít posadit do prosklených výklenků, odkud je z výšky 38 metrů vidět na velkou část ostrova Odderøya nebo na přístav a hlavní čtvrti města. Je tam příjemně čerstvý vzduch, protože jednotlivé skleněné pruhy mají mezi sebou mezery. Celkový dojem připomíná vrchol majákové věže, místo, ze kterého proudí světlo.
@@ -229,6 +244,7 @@ Slovy to nedokážu dobře popsat, zkuste si pustit nějaké krátké video uved
 
 ![Lindesnes fyr](cal2026/13-2025-08-07_195845_2k.jpg)
 
+<a id="13"></a>
 ## NO Týden 13: Lindesnes fyr
 
 První den opravdového auto-výletu po Norsku jsem věnoval jižnímu pobřeží. Navštívil jsem známou pláž Kanelstranda, tu však musíte vidět kolem západu slunce za pěkného počasí, abyste ulovili legendární snímky (a to nebyl můj případ).
@@ -245,6 +261,7 @@ Na noc jsem odjel na první mé "divoké" norské parkoviště u jezera Botnevat
 
 ![Helleren, Jøssingfjord](cal2026/14-2025-08-08_091909_2k.jpg)
 
+<a id="14"></a>
 ## NO Týden 14: Helleren, Jøssingfjord
 
 Další den jsem brzo ráno vyrazil do Jøssingfjordu za jednou z nejslavnějších atrakcí - národní památkou Helleren. Dva domky byly postaveny pod skalním převisem hlubokým přibližně deset metrů, který je částečně chrání před deštěm a sněhem. Zřejmě již od sedmnáctého století bylo možné toto místo celoročně obývat - viz odkazy níže.
@@ -265,6 +282,7 @@ Místo toho jsem se zastavil na vrcholu skály nad převisem, je tam parkovišt�
 
 ![Sogndalstrand](cal2026/15-2025-08-08_110717.jpg)
 
+<a id="15"></a>
 ## NO Týden 15: Sogndalstrand
 
 Přístavní vesnice Sogndalstrand (Sogndalsstranda) byla postavena kolem ústí řeky Sokno do Severního moře. Dodnes jsou tam zachovány malebné domy na nábřeží, dříve sloužily často jako sklady dovezeného zboží. Z druhé strany těchto domů prochází ulice Strandgaten - pokud půjdete na její jižní konec a pak vystoupáte do výšky, dostanete se až k vyhlídce na moře (Loshytto).
@@ -283,6 +301,7 @@ Na druhém břehu řeky můžete dojít až do přístavu, který se dnes už ne
 
 ![Sogndalstrand Kulturhotell](cal2026/16-2025-08-08_114901_2k.jpg)
 
+<a id="16"></a>
 ## NO Týden 16: Sogndalstrand Kulturhotell
 
 Významnou budovou na Strandgaten (Sogndalstrand) je Kulturhotell; zaujal mne už zvenku, tak jsem se rozhodl dát si tam kávu. Pěkné prostředí jejich jídelny jsem sice vyfotil, ale nakonec je nejlepším snímkem tato toaleta s funkčním piánem - a bylo docela dobře naladěné, pokud mohu posoudit.
@@ -295,6 +314,7 @@ Významnou budovou na Strandgaten (Sogndalstrand) je Kulturhotell; zaujal mne u�
 
 ![Månafossen](cal2026/17-2025-08-10_134640_2k.jpg)
 
+<a id="17"></a>
 ## NO Týden 17: Månafossen
 
 Byla to moje vlajka? Nebyla. Musel jsem kvůli vyhlídce na vodopád lézt po skále? Musel (viz YT video v odkazech).
@@ -318,6 +338,7 @@ Pokud budete někdy v okolí Stavangeru, rozhodně doporučuji!
 
 ![Lysefjord from Lysebotn](cal2026/18-2025-08-11_065557 IMG_3501.JPG)
 
+<a id="18"></a>
 ## NO Týden 18: Lysefjord from Lysebotn
 
 Foceno 11. 8. 2025 před sedmou hodinou z kempu v Lysebotn. Den předtím jsem dorazil autem po silnici 4224 (Lysevegen) se slavnými serpentinami a dokonce jednou otočkou uprostřed kopce (Lysetunnelen), ve které cesta klesne na 1103 metrech o cca 100 metrů. Bylo špatné počasí, fotit nemělo moc smysl.
@@ -338,6 +359,7 @@ Výlet lodí do Flørli (Flørlitrappene) je zdokumentován v jiném příspěvk
 
 ![Vardsvatn - Kvislevassknuten trekksone](cal2026/19-2025-08-11_143458 IMG_3691_2k.jpg)
 
+<a id="19"></a>
 ## NO Týden 19: Vardsvatn - Kvislevassknuten trekksone
 
 Chráněná horská oblast, přes kterou jsem jen projížděl autem za mlhavého počasí. Podle informací v turistických průvodcích se zde dají naplánovat pěkné túry.
@@ -360,6 +382,7 @@ No a když se ovce na silnici zastaví a vypadá to, že neví, co dál? Prý v�
 
 ![Odda](cal2026/20-2025-08-13_134418_2k.jpg)
 
+<a id="20"></a>
 ## NO Týden 20: Odda
 
 Ve středu 13. 8. 2025 jsem měl na programu dlouhou cestu z Røldal až do Bergenu. Byly naplánovány návštěvy několika vodopádů, ale hned ten první - Låtefossen - byl tak obležen turisty s karavany, že jsem zastávku vzdal. V ušetřeném čase jsem strávil hodinu v pěkném městečku Odda - později jsem si přečetl v bedekrech, že je považováno za jedno z nejmalebnějších míst v západním Norsku.
@@ -382,6 +405,7 @@ V okolí městečka Odda byl natáčen fantasy seriál Ragnarök (Netflix, tři 
 
 ![Fossatromma](cal2026/21-2025-08-13_171302.jpg)
 
+<a id="21"></a>
 ## NO Týden 21: Fossatromma
 
 Z Oddy jsem se vydal do Trolldalen za skupinou velmi populárních vodopádů. Fossatromma na fotce je první z nich, následuje Vøringfossen (nad ním se můžete projít po pěkné lávce) a zboku se připojuje Tysvikjofossen. Zázemí pro turisty je tam vynikající, odhadl jsem, že nahoře (větší koncentrace parkovišť a restaurací) bude moc rušno, tak jsem zastavil na dolní plošině. Odměnou mi byla procházka po chodníčkách kolem bažiny, několik vyhlídek na vodopády a nakonec přístup na již zmíněnou lávku. Prošel jsem se, vyfotil spoustu snímků a odjížděl spokojen.
@@ -406,6 +430,7 @@ Ale největší silniční atrakce mne teprve čekaly: most Hardangerbrua (nejde
 
 ![Steinsdalsfossen](cal2026/22-2025-08-13_195448 IMG_4105_2k.jpg)
 
+<a id="22"></a>
 ## NO Týden 22: Steinsdalsfossen
 
 Ten den jsem musel dojet do Bergenu, ale nemohl jsem vynechat jeden z nejzajímavějších vodopádů mé cesty - Steinsdalsfossen. Z těch, která jsem v Norsku navštívil, to byl jediný, kde se dalo zajít za padající vodu a získat tak jedinečný zážitek (o tom však až příští týden).
@@ -422,6 +447,7 @@ Na obrázku je vidět pohled zdola - voda padá s takovou silou, že vás mrhole
 
 ![Øvsthus](cal2026/23-2025-08-13_200244.jpg)
 
+<a id="23"></a>
 ## NO Týden 23: Øvsthus
 
 Druhá fotografie vodopádu Steinsdalsfossen ukazuje pohled zpoza padající vody na obec Øvsthus, na jejímž území se vodopád nachází. Pohodlnou cestičkou se dostanete až za vodopád a můžete si užívat jedinečný zážitek nebo fotit na krátké či dlouhé časy proud vody. Já si zvolil 1/700 sekundy pro zachycení jednotlivých kapek.
@@ -438,6 +464,7 @@ Protože jsem tam byl navečer a slunce se již klonilo k západu, osvětlovalo 
 
 ![Bryggen](cal2026/24-2025-08-14_112241_2k.jpg)
 
+<a id="24"></a>
 ## NO Týden 24: Bryggen
 
 V Bergenu jsem strávil jeden celý den. Původní plán vyjet lanovkou Fløibanen nad město padl, protože bylo krásné počasí, turistů velmi mnoho a fronta na lístky byla snad sto metrů dlouhá. Místo toho jsem se procházel po nábřeží, hlavně slavnou čtvrtí Bryggen, chráněnou UNESCO. Kromě úzkých uliček a zajímavých starých domků mne zlákala místní kuchyně - chtěl jsem ochutnat rybí polévku, tak jsem se zeptal AI a na její radu zašel do ne příliš drahé hospůdky na "Bergensk fiskesuppe med laks" (více obrázků najdete ve starším Ig postu, odkaz je uveden dole).
@@ -458,6 +485,7 @@ V Bergenu na nábřeží jsem rovněž zašel na zlevněné suvenýry a koupil p
 
 ![Mariakirken, Bergen](cal2026/25-2025-08-14_122451_2k.jpg)
 
+<a id="25"></a>
 ## NO Týden 25: Mariakirken, Bergen
 
 Při procházce přístavem a okolím jsem narazil na anglikánský kostel Mariakirken v Bergenu. Byla možnost vyhnout se placení vstupného v době pravidelných krátkých bohoslužeb/motliteb. Tak jsem se rozhodl zúčastnit se a spojit příjemné s užitečným. A byl to dobrý nápad, sloužila sympatická reverendka, která si všimla, že většinou poslouchají turisté, tak ihned přepnula do angličtiny a pouze jednu nebo dvě modlitby nechala v norštině.
@@ -472,6 +500,7 @@ Bylo to velmi příjemné a já jsem pak zašel reverendce poděkovat a prohodit
 
 ![Nigardsbreen](cal2026/26-2025-08-17_161349 IMG_4300_2k.jpg)
 
+<a id="26"></a>
 ## NO Týden 26: Nigardsbreen
 
 V polovině srpna jsem několik dnů věnoval ledovcům, zejména největšímu evropskému pevninskému ledovci Jostedalsbreen. 
@@ -502,6 +531,7 @@ Fotografie z kalendáře ukazuje jedno z nejznámějších míst ledovce Josteda
 
 ![Nigardsbrevatnet](cal2026/27-2025-08-17_171154_2k.jpg)
 
+<a id="27"></a>
 ## NO Týden 27: Nigardsbrevatnet
 
 Když jsem se přibližoval pěšky k Nigardsbreen, zjistil jsem, že nejotravnější a nejnáročnější část cesty je překvapivě po rovině kolem jezera Nigardsbrevatnet. Neměl jsem mnoho času, tak jsem se vrátil k molu a zaplatil si cestu malou motorovou lodí, která ušetří čas a nabídne krásné výhledy na ledovec z hladiny jezera. Cestou zpět jsem musel chvátat, abych stihl poslední plavbu zpátky.
@@ -518,6 +548,7 @@ Všimněte si barvy ledovcové vody, modrou mléčnou barvu má i říčka Breel
 
 ![Eidsvatnet, Ludwig Wittgenstein hut](cal2026/28-2025-08-17_192153_2k.jpg)
 
+<a id="28"></a>
 ## NO Týden 28: Eidsvatnet, Ludwig Wittgenstein hut
 
 **Ludwig Wittgenstein (1889–1951)**, rakouský filozof a jedna z největších osobností myšlení 20. století, zásadně proměnil způsob, jakým filozofie uvažuje o jazyce. Zajímal ho vztah mezi tím, co si myslíme, jak o tom mluvíme, a světem, který se tím snažíme popsat. Část svého slavného *Tractatu logico-philosophicus* napsal právě zde, ve Skjoldenu v západním Norsku, v domku nad jezerem Eidsvatnet, kam se opakovaně vracel. V tamní krajině nacházel ticho, odstup a klid potřebný k přemýšlení i psaní.
@@ -534,6 +565,7 @@ Pozn.: domek je na této širokoúhlé fotografii dost maličký, ale s trochou 
 
 ![Sognefjellet](cal2026/29-2025-08-17_203155 IMG_4404_2k.jpg)
 
+<a id="29"></a>
 ## NO Týden 29: Sognefjellet
 
 Cestu z Førde do Lom jsem si naplánoval přes hornatou oblast / průsmyk **Sognefjellet**. Vede tam velmi slavná silnice, postupně až k nadmořské výšce 1430 m. Pokud jste někdy viděli video, jak se na jaře v Norsku frézuje průjezd závějemi vysokými několik metrů, mohlo to být právě na této silnici.
@@ -548,6 +580,7 @@ Já jsem ovšem projížděl v létě, tak jsem si užil pěkných výhledů na 
 
 ![Djupvatnet](cal2026/30-2025-08-18_131800 IMG_4458_2k.jpg)
 
+<a id="30"></a>
 ## NO Týden 30: Djupvatnet
 
 Z oblasti Lomu jsem jel směrem na Geiranger. Kolem řeky Otta vystoupáte do hornaté oblasti (Breheimen nasjonalpark), kde je krásné údolí Breiddalen a mnoho pěkných jezer, například Breiddalsvatnet nebo Langvatnet. U některých jsem se zastavil a kochal se přírodou, o kousek výš - v nadmořské výšce 1400-1500 m - byl i v létě vidět sníh a led.
@@ -572,6 +605,7 @@ Nejkrásnější jezero se ovšem objevilo až kousek před sjezdem dolů do Gei
 
 ![Trollstigen](cal2026/31-2025-08-19_152300_2k.jpg)
 
+<a id="31"></a>
 ## NO Týden 31: Trollstigen
 
 Geiranger měla být další pěkná zastávka na mé cestě, bohužel byla špatná viditelnost: mlha a déšť. S tím musíte v Norsku počítat, příroda vás odmění jen někdy. Ani město Ålesund jsem si pak úplně neužil, odpočíval jsem po dlouhém přejezdu.
@@ -596,6 +630,7 @@ Výhledy na všechny strany jsem se kochal asi hodinu, byl vidět nedaleký vrch
 
 ![Romsdalsfjorden from Nesaksla](cal2026/32-2025-08-20_124324 IMG_4701_2k.jpg)
 
+<a id="32"></a>
 ## NO Týden 32: Romsdalsfjorden from Nesaksla
 
 Přímo v Åndalsnes jsem nebydlel, ale udělal jsem si tam výlet. Lanovkou jsem vyjel na kopec Nesaksla (715 metrů), užil výhledy do několika stran a fotil Romsdalsfjorden i údolí Romsdalen, odkud jsem předchozí den přijel. Na vrcholu je východiště několika pěších túr a též možnost sejít dolů do údolí po jedné z dvou ferrat. Neměl jsem ideální počasí (okolní vrcholy v mracích) ani dostatečně dobré boty, tak jsem jen udělal krátký okruh na vrcholu a dolů sjel opět lanovkou. Pokud byste Åndalsnes navštívili za lepšího počasí, lépe vybaveni a v lepší fyzické formě, určitě si nějaký lepší výlet naplánujte!
@@ -620,6 +655,7 @@ Ve městě končí železniční trať "Raumabanen railway", měl jsem štěstí
 
 ![Storsvingen](cal2026/33-2025-08-20_163856_2k.jpg)
 
+<a id="33"></a>
 ## NO Týden 33: Storsvingen
 
 Podle mraků na fotografii už jste si možná domysleli, že jsme pořád nedaleko Åndalsnes v prostoru i čase. Vyjel jsem si obhlédnout Eresfjord a nevyužít přitom trajekt Åfarnes ferjekai. Objevil jsem například malé lyžařské středisko Vistdalsheia s několika běžkařskými okruhy (není na fotce).
@@ -646,6 +682,7 @@ Ale ostrá zatáčka s odpočívadlem se už do kalendáře dostala. Zejména d�
 
 ![Atlanterhavsvegen](cal2026/34-2025-08-21_140102 IMG_4866_2k.jpg)
 
+<a id="34"></a>
 ## NO Týden 34: Atlanterhavsvegen
 
 Další úsek mé cesty vedl do Kristiansundu a bylo mou povinností použít silnici č. 64 se slavnou Atlantickou cestou (Atlanterhavsvegen) a ikonickým mostem Storseisundbrua. Měl jsem slušné počasí, tak jsem se zastavil na parkovišti Skipsholmen a prohlédl si okolí. Mosty, malé ostrůvky, příboj, z jedné strany Norské moře a z druhé klidnější Kornstadfjorden. Rozhodně to místo stojí za návštěvu, jen pozor v chladnějších ročních obdobích. Při silném větru mohou vlny stříkat přes silnici a mosty a cesta se občas pro špatné počasí zavírá.
@@ -668,6 +705,7 @@ Ještě lepší záběry Atlantické cesty pořídíte dronem, viz odkazy níže
 
 ![Kristiansund](cal2026/35-2025-08-22_093849_2k.jpg)
 
+<a id="35"></a>
 ## NO Týden 35: Kristiansund
 
 Kristiansund je velmi zajímavé město, nachází se na několika ostrovech propojených mosty a lodní dopravou - nejstarší veřejnou dopravou na světě - Sundbåten (od roku 1876). Funguje dodnes, ale já ji nevyzkoušel, protože jsem měl jiné plány. Prohlédl jsem si přístav, zajímavou budovu Campus Kristiansund, zašel k malému majáku a vypravil se na výlet lodí. Tomu všemu bude věnováno několik příštích týdnů kalendáře, vypadá to, že jsem si Kristiansund oblíbil.
@@ -688,6 +726,7 @@ Na fotografii je molo Piret se sochou Klippfiskkjerringa (Clipfish Woman), vytvo
 
 ![Grip fyrstasjon](cal2026/36-2025-08-22_110737 IMG_5136_2k.jpg)
 
+<a id="36"></a>
 ## NO Týden 36: Grip fyrstasjon
 
 Asi nejzajímavějším výletem v Kristiansundu byl výlet malou lodí na ostrov Grip. Odjíždí se z mola Piret (viz foto z minulého týdne), loď se jmenuje MS Kvikk a cesta na Grip trvá přibližně 35 minut, podle počasí.
@@ -710,6 +749,7 @@ Fotografie byla pořízena ze severní části ostrova Grip, přibližně z mís
 
 ![Grip](cal2026/37-2025-08-22_111431_2k.jpg)
 
+<a id="37"></a>
 ## NO Týden 37: Grip
 
 Grip je ostrov s dlouhou rybářskou historií. Obyvatelé měli těžký život a denně bojovali s drsnou přírodou. Skoro všichni muži jezdili na moře lovit ryby. Pokud se přihnala silná bouře, nezřídka se domů nevrátili všichni, o extrémních případech vyprávějí kroniky:
@@ -738,6 +778,7 @@ Na fotografii je jedna z malebných uliček ostrova s barevnými domky, dnes ji�
 
 ![Elementer, Grip](cal2026/38-2025-08-22_122207 IMG_5241_2k.jpg)
 
+<a id="38"></a>
 ## NO Týden 38: Elementer, Grip
 
 Tato fotografie ilustruje sílu mořských živlů (vody, větru), které se projevovaly i v relativně klidném dnu uprostřed léta 2025. Na ostrov jsme jeli menší lodí MS Kvikk (66 stop, další parametry viz odkaz) a neměli jsme žádné problémy - jen lidé se slabším žaludkem si museli dávat pozor.
@@ -754,6 +795,7 @@ Do severní části ostrova Grip se jménem Notbeget mne přilíkaly právě vln
 
 ![Grip](cal2026/39-2025-08-22_124409_2k.jpg)
 
+<a id="39"></a>
 ## NO Týden 39: Grip
 
 Na ostrově Grip se rybářství provozuje dodnes. Strávil jsem tam pár hodin, prohlédl si kostel (Grip stave church) a vyslechl si tam našeho průvodce. Ve zbytku času jsem chodil po ostrůvku a užíval si dalších míst a scenérií. Malá hasičská stanice je zajímavá, i obchod (Grip kro) nebo fotbalové hřiště stojí za návštěvu.
@@ -770,6 +812,7 @@ Mne zaujal pohled na malou zátoku se zaparkovaným člunem, a tak se do kalend�
 
 ![Kristiansund](cal2026/40-2025-08-22_134107_2k.jpg)
 
+<a id="40"></a>
 ## NO Týden 40: Kristiansund
 
 Zpět v Kristiansundu: když jsem se procházel po nábřeží, zaujala mne budova Campusu Kristiansund. Je zajímavá nejen zvenku, ale má zajímavé atrium. Soustředí se tu výuka několika - zejména bakalářských - oborů, detaily si můžete přečíst na webu nebo Instagramu.
@@ -788,6 +831,7 @@ Před vchodem do Campusu stojí socha místního rodáka Ole Gunnara Solskjæra,
 
 ![Kristiansund](cal2026/41-2025-08-22_142006_2k.jpg)
 
+<a id="41"></a>
 ## NO Týden 41: Kristiansund
 
 Poslední fotografie z Kristiansundu byla pořízena na vrcholu ulice Hauggata poblíž památníku - děla, které připomíná bitvu 1808. Během napoleonských válek se zde nacházelo jedno z důležitých obranných stanovišť (Kommandør Tønders batteri). Dne 7. července 1808 odtud norské síly úspěšně pálily na britské válečné lodě (včetně fregaty Tartar) a odrazily britský útok na město. Dělo však není v našem záběru.
@@ -808,6 +852,7 @@ Místo toho vidíte pohled na impozantní kostel Nordlandet kirke na protější
 
 ![Veiholmen](cal2026/42-2025-08-23_150932_2k.jpg)
 
+<a id="42"></a>
 ## NO Týden 42: Veiholmen
 
 Z Kristiansundu mne čekala jen krátká cesta do Trondheimu, tak jsem zkoumal, co zajímavého po cestě navštívit. Do oka mi padl ostrov Smøla pokrytý mnoha rozsáhlými rašeliništi a na severu pokračující řetězem menších ostrůvků až do toho posledního jménem Veiholmen.
@@ -828,6 +873,7 @@ Ve vesničce je mnoho zajímavých domů, přístavů a malebných zákoutí. Je
 
 ![Formofossen](cal2026/43-2025-08-25_153300 IMG_5773_2k.jpg)
 
+<a id="43"></a>
 ## NO Týden 43: Formofossen
 
 V Trondheimu jsem neměl štěstí na počasí, žádné pěkné fotky jsem nepořídil (bylo zde samozřejmě několik zajímavostí, které jsem navštívil - například přístav, pěknou botanickou zahradu nebo břehy řeky Nidelva).
@@ -854,6 +900,7 @@ Formofossen je silný vodopád na řece Sanddøla-Sovvene, celková výška je 3
 
 ![Formofossen](cal2026/44-2025-08-26_174413_2k.jpg)
 
+<a id="44"></a>
 ## NO Týden 44: Gløshaug kirke
 
 Z kempu v Grongu jsem objel pár zajímavých míst v údolí řeky Namsen, podle které je pojmenována celá oblast Namdalen. Řeka byla v minulosti užívaná pro plavení dřeva, ale dnes je hlavně známá jako jedno z nejlepších míst pro lov lososů.
@@ -874,6 +921,7 @@ Pokud byste zde měli víc času a chuť na malý výlet, dá se obejít protěj
 
 ![Namsentunet](cal2026/45-2025-08-26_181853_2k.jpg)
 
+<a id="45"></a>
 ## NO Týden 45: Namsentunet
 
 Když jsem projížděl údolím řeky Namsen, zaujal mne vysoký železniční most a pod ním vikingská vesnička Namsentunet. Domky mají střechy porostlé travou a působí malebně, při bližším zkoumání však zjistíte, že je to turistické místo udržované tak, aby vzhledově připomínalo starobylou vikingskou vesnici.
@@ -916,7 +964,7 @@ V městě se zajímavým jménem Mo i Rana jsem strávil dvě noci v pěkném ho
 
 Na vrátnici, na schodištích, v chodbách, všude najdete objekty s železniční tématikou, ale nejlépe byla vyzdobena jídelna, viz foto. Kuchyň hotelu si zaslouží další pochvalu, měl jsem tam jednu z nejlepších snídaní v Norsku.
 
-Ve městě jsem si prohlížel zejména pobřeží a zajímavou místní architekturu. Kousek od břehu je v moři umístěna jedenáctimetrová socha Havmannen ("The Man from the Sea"). Viděl jsem ji pouze za denního světla, vypadá to, že v noci je pěkně osvětlena. Poblíž sochy jsem si našel pevně instalované dřevěné lehátko, které bylo tak ohřáté sluncem (bylo to večer 28. 8.), že se na něm dala pohodlně strávit půlhodina čtením knihy.
+Ve městě jsem si prohlížel zejména pobřeží a zajímavou místní architekturu. Kousek od břehu je v moři umístěna jedenáctimetrová socha Havmannen ("The Man from the Sea"). Viděl jsem ji pouze za denního světla, vypadá to, že v noci je pěkně osvětlena. Poblíž sochy jsem si našel pevně instalované dřevěné lehátko, které bylo tak prohřáté sluncem (bylo to večer 28. 8.), že se na něm dala pohodlně strávit půlhodina čtením knihy.
 
 <https://www.bestwestern.com/en_US/book/hotels-in-mo-i-rana/sure-hotel-by-best-western-ole-tobias/propertyCode.73138.html>
 
