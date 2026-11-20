@@ -566,3 +566,356 @@ Nejkrásnější jezero se ovšem objevilo až kousek před sjezdem dolů do Gei
 
 <https://no.wikipedia.org/wiki/Otta>
 
+---
+
+![Trollstigen](cal2026/31-2025-08-19_152300_2k.jpg)
+
+## NO Týden 31: Trollstigen
+
+Geiranger měla být další pěkná zastávka na mé cestě, bohužel byla špatná viditelnost: mlha a déšť. S tím musíte v Norsku počítat, příroda vás odmění jen někdy. Ani město Ålesund jsem si pak úplně neužil, odpočíval jsem po dlouhém přejezdu.
+
+Až další den jsem přejížděl do Åndalsnes - resp. do ubytování o jeden fjord dál - a po cestě se počasí umoudřilo. Nejmarkantnější byly změny počasí v okamžiku, kdy jsem zastavil nad slavnou vyhlídkou Trollstigen s vodopády a velkými serpentinami. Byl jsem optimista a vylezl jsem z auta ještě když jsme byli v mracích. Když jsem docházel na pár set metrů vzdálené vyhlídky, mraky začaly ustupovat a já už tušil, že dnes něco pěkného uvidím a nafotím.
+
+Na fotografii v kalendáři vidíte pohled na serpentiny a do údolí řeky Istra, kterou jsem později sledoval až do jejího konce v řece Rauma, vlévající se do Isfjordalen poblíž města Åndalsnes. To není na fotografii zřetelně vidět, ale můžete to tušit tam v dálce.
+
+Výhledy na všechny strany jsem se kochal asi hodinu, byl vidět nedaleký vrchol s působivými skalami Bispen (1462m), několik menších vodopádů a čilý automobilový ruch na serpentinách Isterdalsvegen. Občas se opravdu musel provoz zastavit a počkat, až se nějaký delší autobus opatrně vytočí v jedné z ostrých zatáček.
+
+<https://no.wikipedia.org/wiki/Isfjorden_(fjord_i_Rauma)>
+
+<https://no.wikipedia.org/wiki/Trollstigvegen>
+
+<https://www.fjordnorway.com/en/see-and-do/national-tourist-route-trollstigen>
+
+<https://www.visitnorway.com/listings/the-bishop-s-hike-to-bispen/271661/>
+
+<https://www.europeanwaterfalls.com/waterfalls/stigfossen-trollstigen/>
+
+---
+
+![Romsdalsfjorden from Nesaksla](cal2026/32-2025-08-20_124324 IMG_4701_2k.jpg)
+
+## NO Týden 32: Romsdalsfjorden from Nesaksla
+
+Přímo v Åndalsnes jsem nebydlel, ale udělal jsem si tam výlet. Lanovkou jsem vyjel na kopec Nesaksla (715 metrů), užil výhledy do několika stran a fotil Romsdalsfjorden i údolí Romsdalen, odkud jsem předchozí den přijel. Na vrcholu je východiště několika pěších túr a též možnost sejít dolů do údolí po jedné z dvou ferrat. Neměl jsem ideální počasí (okolní vrcholy v mracích) ani dostatečně dobré boty, tak jsem jen udělal krátký okruh na vrcholu a dolů sjel opět lanovkou. Pokud byste Åndalsnes navštívili za lepšího počasí, lépe vybaveni a v lepší fyzické formě, určitě si nějaký lepší výlet naplánujte!
+
+Ve městě končí železniční trať "Raumabanen railway", měl jsem štěstí a mohl jsem se podívat na zlatý vlak, který zrovna přijel. Vypadá to, že "Rauma Line" je jedna z nejkrásnějších tratí v Evropě. Jízda po 114km dlouhé trati trvá méně než dvě hodiny a musí to být skvělý zážitek.
+
+<https://en.wikipedia.org/wiki/%C3%85ndalsnes>
+
+<https://www.fjordtours.com/en/norway/places-to-visit/fjords/romsdalsfjord>
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/northwest/andalsnes/>
+
+<https://en.wikipedia.org/wiki/%C3%85ndalsnes_Station>
+
+<https://www.visitnorway.com/plan-your-trip/getting-around/by-train/rauma-line/>
+
+<https://www.sj.no/en/strekning/raumabanen-2/>
+
+<https://www.instagram.com/thegoldentrain>
+
+---
+
+![Storsvingen](cal2026/33-2025-08-20_163856_2k.jpg)
+
+## NO Týden 33: Storsvingen
+
+Podle mraků na fotografii už jste si možná domysleli, že jsme pořád nedaleko Åndalsnes v prostoru i čase. Vyjel jsem si obhlédnout Eresfjord a nevyužít přitom trajekt Åfarnes ferjekai. Objevil jsem například malé lyžařské středisko Vistdalsheia s několika běžkařskými okruhy (není na fotce).
+
+Ale ostrá zatáčka s odpočívadlem se už do kalendáře dostala. Zejména díky krásnému výhledu na jihovýchod s horou Goksøyra (1337 m) a jezerem Eikesdalsvatnet. Jedno z barevných jízdních kol propagujících cyklistiku (viz odkaz dole - Bygda Rundt) ještě vylepšilo ten pěkný snímek.
+
+<https://climbfinder.com/en/climbs/vistdalsheia-eresfjord>
+
+<https://morotur.no/tur/lysloeypa-vistdalsheia>
+
+<https://en.wikipedia.org/wiki/Eresfjorden>
+
+<https://www.alltrails.com/norway/more-og-romsdal/eresfjord>
+
+<https://www.eresfjord.no/sykkelbygda-eresfjord>
+
+<https://www.eresfjord.no/lagorg/eresfjord-il/bygda-rundt>
+
+<https://en.wikipedia.org/wiki/Eikesdalsvatnet>
+
+<https://dovrefjell-sunndalsfjella.no/en/approaches-and-starting-points/eikesdal/>
+
+---
+
+![Atlanterhavsvegen](cal2026/34-2025-08-21_140102 IMG_4866_2k.jpg)
+
+## NO Týden 34: Atlanterhavsvegen
+
+Další úsek mé cesty vedl do Kristiansundu a bylo mou povinností použít silnici č. 64 se slavnou Atlantickou cestou (Atlanterhavsvegen) a ikonickým mostem Storseisundbrua. Měl jsem slušné počasí, tak jsem se zastavil na parkovišti Skipsholmen a prohlédl si okolí. Mosty, malé ostrůvky, příboj, z jedné strany Norské moře a z druhé klidnější Kornstadfjorden. Rozhodně to místo stojí za návštěvu, jen pozor v chladnějších ročních obdobích. Při silném větru mohou vlny stříkat přes silnici a mosty a cesta se občas pro špatné počasí zavírá.
+
+Ještě lepší záběry Atlantické cesty pořídíte dronem, viz odkazy níže.
+
+<https://en.wikipedia.org/wiki/Atlantic_Ocean_Road>
+
+<https://en.wikipedia.org/wiki/Norwegian_County_Road_64>
+
+<https://no.wikipedia.org/wiki/Storseisundbrua>
+
+<https://www.visitnorway.com/places-to-go/fjord-norway/northwest/scenic-route-atlantic-road/>
+
+<https://www.visitnorway.com/listings/norwegian-scenic-routes-the-atlantic-road/26864/>
+
+<https://www.colorfuljourneys.com/articles/atlantic-ocean-road-norway>
+
+---
+
+![Kristiansund](cal2026/35-2025-08-22_093849_2k.jpg)
+
+## NO Týden 35: Kristiansund
+
+Kristiansund je velmi zajímavé město, nachází se na několika ostrovech propojených mosty a lodní dopravou - nejstarší veřejnou dopravou na světě - Sundbåten (od roku 1876). Funguje dodnes, ale já ji nevyzkoušel, protože jsem měl jiné plány. Prohlédl jsem si přístav, zajímavou budovu Campus Kristiansund, zašel k malému majáku a vypravil se na výlet lodí. Tomu všemu bude věnováno několik příštích týdnů kalendáře, vypadá to, že jsem si Kristiansund oblíbil.
+
+Na fotografii je molo Piret se sochou Klippfiskkjerringa (Clipfish Woman), vytvořenou na počest dlouhé tradice lovu a zpracování ryb. "Klippfisk" je technologie konzervace, která spočívá v nasolení, usušení a slisování ryb, zejména různých druhů tresek. Žena drží v pravé ruce právě takto zpracovanou rybu.
+
+<https://www.visitnorway.com/listings/sundbaten-the-harbour-ferry/26822/>
+
+<https://www.sundbaten.no/en>
+
+<https://www.visitnorway.com/listings/klippfiskkjerringa-sculpture/234148/>
+
+<https://www.fjordnorway.com/en/inspiration/day-trips/kristiansund/experience-the-clipfish-town>
+
+<https://www.instagram.com/sundbaten>
+
+---
+
+![Grip fyrstasjon](cal2026/36-2025-08-22_110737 IMG_5136_2k.jpg)
+
+## NO Týden 36: Grip fyrstasjon
+
+Asi nejzajímavějším výletem v Kristiansundu byl výlet malou lodí na ostrov Grip. Odjíždí se z mola Piret (viz foto z minulého týdne), loď se jmenuje MS Kvikk a cesta na Grip trvá přibližně 35 minut, podle počasí.
+
+Na fotografii je maják Grip fyrstasjon vysoký 44m postavený na útesu Bratthårskollen, v provozu od roku 1888. Bylo obtížné tam sloužit, hlavně pro drsné podmínky a špatnou obsluhu z pevniny. Od roku 1977 byl maják automatizován a dnes je již bez trvalé lidské obsluhy, detaily a další historky si můžete přečíst na webové stránce v posledním odkazu.
+
+Fotografie byla pořízena ze severní části ostrova Grip, přibližně z místa označeného Hotta.
+
+<https://www.gripruta.no/en>
+
+<https://www.gripruta.no/en/trips>
+
+<https://www.marinetraffic.com/en/ais/details/ships/shipid:306578/mmsi:257398700/imo:0/vessel:KVIKK>
+
+<https://www.kystverket.no/kystkultur/fyrstasjoner/grip-fyr/>
+
+<https://www.instagram.com/gripruta>
+
+---
+
+![Grip](cal2026/37-2025-08-22_111431_2k.jpg)
+
+## NO Týden 37: Grip
+
+Grip je ostrov s dlouhou rybářskou historií. Obyvatelé měli těžký život a denně bojovali s drsnou přírodou. Skoro všichni muži jezdili na moře lovit ryby. Pokud se přihnala silná bouře, nezřídka se domů nevrátili všichni, o extrémních případech vyprávějí kroniky:
+
+23\. února 1625 zasáhl orkán na Foldě rybářskou flotilu tak silně, že se domů nevrátil ani jeden muž z Gripu schopný rybolovu - šlo o 210 mužů, děti a matky zůstávaly doma. Vdovy se často později znova vdávaly a umožnily tak zachovat kontinuitu svých rodin.
+
+Kolem roku 1640 postihla Grip mimořádná "mořská pohroma" ("HavsVaade" - detailní popis, o jakou kombinaci ničivých sil se jednalo, archivy neuvádějí), při níž zahynula většina místních rybářů, byl poničen přístav a většina větších lodí prakticky přestala existovat.
+
+Ostrov pro mne představuje symbol norů žijících v drsné přírodě, kteří se těžce rvou o své živobytí a neustále chovají k přírodě velký respekt.
+
+Na fotografii je jedna z malebných uliček ostrova s barevnými domky, dnes již dobře rekonstruovanými a moderně vybavenými.
+
+<https://en.wikipedia.org/wiki/Grip,_Norway>
+
+<https://www.gripruta.no/en/trips>
+
+<https://skillingsviser.no/dodskampen-pa-foldahavet/>
+
+<https://no.wikisource.org/wiki/Bidrag_til_Christianssunds_Historie_indtil_1814>
+
+<https://lokalhistoriewiki.no/Grip>
+
+<https://www.instagram.com/gripruta>
+
+---
+
+![Elementer, Grip](cal2026/38-2025-08-22_122207 IMG_5241_2k.jpg)
+
+## NO Týden 38: Elementer, Grip
+
+Tato fotografie ilustruje sílu mořských živlů (vody, větru), které se projevovaly i v relativně klidném dnu uprostřed léta 2025. Na ostrov jsme jeli menší lodí MS Kvikk (66 stop, další parametry viz odkaz) a neměli jsme žádné problémy - jen lidé se slabším žaludkem si museli dávat pozor.
+
+Do severní části ostrova Grip se jménem Notbeget mne přilíkaly právě vlnolamy, o které se tříštily vlny. Došel jsem až skoro na konec vlnolamu "Kvalhaue" a trpělivě natáčel videa a fotografoval, výsledkem je jedna z fotografií v kalendáři ukazující sílu živlů.
+
+<https://www.gripruta.no/en>
+
+<https://www.gripruta.no/en/trips>
+
+<https://www.marinetraffic.com/en/ais/details/ships/shipid:306578/mmsi:257398700/imo:0/vessel:KVIKK>
+
+---
+
+![Grip](cal2026/39-2025-08-22_124409_2k.jpg)
+
+## NO Týden 39: Grip
+
+Na ostrově Grip se rybářství provozuje dodnes. Strávil jsem tam pár hodin, prohlédl si kostel (Grip stave church) a vyslechl si tam našeho průvodce. Ve zbytku času jsem chodil po ostrůvku a užíval si dalších míst a scenérií. Malá hasičská stanice je zajímavá, i obchod (Grip kro) nebo fotbalové hřiště stojí za návštěvu.
+
+Mne zaujal pohled na malou zátoku se zaparkovaným člunem, a tak se do kalendáře dostala právě tato fotografie.
+
+<https://www.gripruta.no/en>
+
+<https://en.wikipedia.org/wiki/Grip,_Norway>
+
+<https://no.wikipedia.org/wiki/Grip_stavkirke>
+
+---
+
+![Kristiansund](cal2026/40-2025-08-22_134107_2k.jpg)
+
+## NO Týden 40: Kristiansund
+
+Zpět v Kristiansundu: když jsem se procházel po nábřeží, zaujala mne budova Campusu Kristiansund. Je zajímavá nejen zvenku, ale má zajímavé atrium. Soustředí se tu výuka několika - zejména bakalářských - oborů, detaily si můžete přečíst na webu nebo Instagramu.
+
+Ikonická fasáda Campusu zaujala tvůrce Euro Truck Simulatoru natolik, že její model zahrnuli do mapy města Kristiansund, viz rozšíření Nordic Horizons.
+
+Před vchodem do Campusu stojí socha místního rodáka Ole Gunnara Solskjæra, fotbalisty, trenéra a fotbalového manažera, který působil mj. v klubu Manchester United.
+
+<https://www.campusksu.no/>
+
+<https://eurotrucksimulator2.com/nordic_horizons/>
+
+<https://www.instagram.com/campuskristiansund>
+
+---
+
+![Kristiansund](cal2026/41-2025-08-22_142006_2k.jpg)
+
+## NO Týden 41: Kristiansund
+
+Poslední fotografie z Kristiansundu byla pořízena na vrcholu ulice Hauggata poblíž památníku - děla, které připomíná bitvu 1808. Během napoleonských válek se zde nacházelo jedno z důležitých obranných stanovišť (Kommandør Tønders batteri). Dne 7. července 1808 odtud norské síly úspěšně pálily na britské válečné lodě (včetně fregaty Tartar) a odrazily britský útok na město. Dělo však není v našem záběru.
+
+Místo toho vidíte pohled na impozantní kostel Nordlandet kirke na protějším ostrově a za ním fjord Bolgsvaet. V popředí zrovna jede loď, která je součástí nejstarší veřejné dopravy Sundbåten - viz odkaz. Protože se Kristiansund nachází na několika ostrovech, jsou tyto lodě dodnes významnou součástí veřejné dopravy města.
+
+<https://www.visitnorway.com/listings/sundbaten-the-harbour-ferry/26822/>
+
+<https://www.sundbaten.no/en>
+
+<https://en.wikipedia.org/wiki/Dano-Swedish_War_(1808%E2%80%931809)>
+
+<https://www.visitnorway.com/listings/nordlandet-church/26841/>
+
+<https://en.wikipedia.org/wiki/Nordlandet_Church>
+
+---
+
+![Veiholmen](cal2026/42-2025-08-23_150932_2k.jpg)
+
+## NO Týden 42: Veiholmen
+
+Z Kristiansundu mne čekala jen krátká cesta do Trondheimu, tak jsem zkoumal, co zajímavého po cestě navštívit. Do oka mi padl ostrov Smøla pokrytý mnoha rozsáhlými rašeliništi a na severu pokračující řetězem menších ostrůvků až do toho posledního jménem Veiholmen.
+
+Ve vesničce je mnoho zajímavých domů, přístavů a malebných zákoutí. Jednu z malých galerií vidíte na fotografii. V parčíku Dalaosen friområde jsem si sednul a snědl svůj oběd. Stoly byly vybaveny šachovnicemi a hracími deskami na vrhcáby, nic nenasvědčovalo tomu, že jsem se nacházel na konci souostroví daleko od pevniny.
+
+<https://en.wikipedia.org/wiki/Sm%C3%B8la_(island)>
+
+<https://en.wikipedia.org/wiki/Veiholmen>
+
+<https://www.fjordnorway.com/en/attractions/smola>
+
+<https://www.fjordnorway.com/en/inspiration/three-days-on-smola-and-veiholmen>
+
+<https://www.fjordnorway.com/en/inspiration/exposed-veiholmen>
+
+---
+
+![Formofossen](cal2026/43-2025-08-25_153300 IMG_5773_2k.jpg)
+
+## NO Týden 43: Formofossen
+
+V Trondheimu jsem neměl štěstí na počasí, žádné pěkné fotky jsem nepořídil (bylo zde samozřejmě několik zajímavostí, které jsem navštívil - například přístav, pěknou botanickou zahradu nebo břehy řeky Nidelva).
+
+Moji další zastávkou směrem na sever Norska bylo městečko Grong s krásnou okolní krajinou, několika řekami s mnoha vodopády a výrazným údolím Namdalen. Vodopádů na mapě najdete desítky, já si vybral jeden, který sliboval velký zážitek - a zklamán jsem rozhodně nebyl.
+
+Formofossen je silný vodopád na řece Sanddøla-Sovvene, celková výška je 34 metrů. A protože zde má řeka velký průtok, pocítíte zblízka ohromnou sílu tekoucí a padající vody. Pokud byste byli odvážnější, můžete se přiblížit až na několik málo metrů od bouřící vody. Vytváří se tak výrazný mrak vodní tříště, že stačí, aby vám zasvítilo sluníčko a můžete hned obdivovat pěknou duhu. To se mi poštěstilo přibližně v 16h, další denní doba příznivá pro duhu by zřejmě byla dopoledne (viz mapu). Fotografie ukazuje horní část vodopádu ještě předtím, než vysvitlo slunce.
+
+<https://en.wikipedia.org/wiki/Grong_Municipality>
+
+<https://en.wikipedia.org/wiki/Namdalen>
+
+<https://biveros.com/grong-norway/>
+
+<https://samfunnprep.no/en/kommuneportal/5045-grong>
+
+<https://www.europeanwaterfalls.com/waterfalls/formofossen/>
+
+<https://www.world-of-waterfalls.com/waterfalls/norway-formofossen/>
+
+<https://no.wikipedia.org/wiki/Sandd%C3%B8la>
+
+---
+
+![Formofossen](cal2026/44-2025-08-26_174413_2k.jpg)
+
+## NO Týden 44: Gløshaug kirke
+
+Z kempu v Grongu jsem objel pár zajímavých míst v údolí řeky Namsen, podle které je pojmenována celá oblast Namdalen. Řeka byla v minulosti užívaná pro plavení dřeva, ale dnes je hlavně známá jako jedno z nejlepších míst pro lov lososů.
+
+V průvodcích najdete několik položek: vodní elektrárna Øvre Fiskumfos se zajímavým velmi úzkým visutým mostem, peřej/vodopád Fiskemsfossen se zvláštními jezy a "rybím žebříkem", pomáhajícím rybám táhnout proti proudu kolem vodopádu. Lososí muzeum bylo v době mé návštěvy bohužel mimo sezónu, tak jsem se jenom prošel kolem.
+
+Pokud byste zde měli víc času a chuť na malý výlet, dá se obejít protější (levý) břeh řeky od Øvre Fiskumfos až k Fiskemsfossen a obdivovat řeku i její vodní díla zblízka. Já jsme si místo toho vybral nedaleký Gløshaug kirke nacházející se na pahorku nad údolím. Je to luteránský kostel patřící do diecéze Nidaros. Je otevřený pouze v době bohoslužeb, tak jsem si ho prohlédl zvenku a užil pěkné výhledy z tohoto tichého místa.
+
+<https://en.wikipedia.org/wiki/Namsen>
+
+<https://en.visitnamdalen.com/forside/hovedside/>
+
+<https://en.wikipedia.org/wiki/Gl%C3%B8shaug_Church>
+
+<https://en.wikipedia.org/wiki/Diocese_of_Nidaros>
+
+---
+
+![Namsentunet](cal2026/45-2025-08-26_181853_2k.jpg)
+
+## NO Týden 45: Namsentunet
+
+Když jsem projížděl údolím řeky Namsen, zaujal mne vysoký železniční most a pod ním vikingská vesnička Namsentunet. Domky mají střechy porostlé travou a působí malebně, při bližším zkoumání však zjistíte, že je to turistické místo udržované tak, aby vzhledově připomínalo starobylou vikingskou vesnici.
+
+Dnes si tam můžete zamluvit ubytování a na podzim se třeba zúčastnit tzv. "Vikingské výzvy" (The Viking Challenge) založené na slavné staré výzvě "Macnab Challenge". Účastníci mají prokázat své lovecké schopnosti tím, že v průběhu jednoho dne - od úsvitu do soumraku - uloví losa, tetřeva hlušce a v řece Namsen chytí divokého lososa. Asi chápete, že se jedná o značně náročnou výzvu, zajímalo by mne, kolika lidem se ji podaří v jedné sezóně splnit?
+
+<https://namsentunet.no/en/home/>
+
+<https://www.visitnorway.com/listings/namsentunet-salmon-fishing-lodge/171746/>
+
+<https://williampowellsporting.co.uk/news/the-viking-challenge/>
+
+---
+
+![Velfjorden](cal2026/46-2025-08-27_170314 IMG_6147_2k.jpg)
+
+## NO Týden 46: Velfjorden
+
+Cesta z Grongu do Mo i Rana byla dlouhá (400 km a v tom i jeden trajekt), ale přesto jsem se po cestě několikrát zastavil a obdivoval krásy přírody. Když jsem už kvečeru jel po silnici Velfjordvejen, tak jsem u odbočky na Navan viděl v zálivu pěknou loď. Nebyl jsem tak pohotový, abych zastavil hned, musel jsem jet pár set metrů dál, abych se otočil a vrátil.
+
+Bylo hrozně zajímavé pokusit se pomocí AI asistentek a jiných nástrojů loď identifikovat. Pokud se podíváme na bok lodi na přídi, poměrně zřetelně tam přečteme "F-12-VS" a z průzkumu vypadla tato nejpravděpodobnější identifikace:
+
+Rybářská dřevěná loď "Morild", volací znak LM6638, dlouhá 13.08 m, výtlak 21 tun, dříve pod znakem "F-12-VS", v současnosti má přidělenou registraci "T 0112L" (někdy se stylizuje jako "T-112-L"). Takže jsem nakonec s touto kráskou strávil delší čas doma u počítače, než jejím fotografováním a prohlížením v přírodě.
+
+![Morild](cal2026/46-2025-08-27_170314 IMG_6146_detail.jpg)
+
+<https://fiskeriportalen.no/fiskebater/morild-t-0112l>
+
+<https://norske-postlister.no/sak/dir-fiskeri/2014/10013>
+
+---
+
+![Sure Hotel, Mo i Rana](cal2026/47-2025-08-28_083516_2k.jpg)
+
+## NO Týden 47: Sure Hotel, Mo i Rana
+
+V městě se zajímavým jménem Mo i Rana jsem strávil dvě noci v pěkném hotelu. Interiér by potěšil všechny milovníky železnice. Pokoje jsou označeny jmény lokálních železničních stanic nebo významnějšími zeměpisnými názvy. Můj pokoj se jmenoval Skonseng, vedlejší Drevja.
+
+Na vrátnici, na schodištích, v chodbách, všude najdete objekty s železniční tématikou, ale nejlépe byla vyzdobena jídelna, viz foto. Kuchyň hotelu si zaslouží další pochvalu, měl jsem tam jednu z nejlepších snídaní v Norsku.
+
+Ve městě jsem si prohlížel zejména pobřeží a zajímavou místní architekturu. Kousek od břehu je v moři umístěna jedenáctimetrová socha Havmannen ("The Man from the Sea"). Viděl jsem ji pouze za denního světla, vypadá to, že v noci je pěkně osvětlena. Poblíž sochy jsem si našel pevně instalované dřevěné lehátko, které bylo tak ohřáté sluncem (bylo to večer 28. 8.), že se na něm dala pohodlně strávit půlhodina čtením knihy.
+
+<https://www.bestwestern.com/en_US/book/hotels-in-mo-i-rana/sure-hotel-by-best-western-ole-tobias/propertyCode.73138.html>
+
+<https://en.wikipedia.org/wiki/Mo_i_Rana>
+
+<https://en.wikipedia.org/wiki/Havmannen>
