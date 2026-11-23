@@ -971,3 +971,28 @@ Ve městě jsem si prohlížel zejména pobřeží a zajímavou místní archite
 <https://en.wikipedia.org/wiki/Mo_i_Rana>
 
 <https://en.wikipedia.org/wiki/Havmannen>
+
+---
+
+![Sørfjorden](cal2026/48-2025-08-29_094239 IMG_6232_2k.jpg)
+
+<a id="48"></a>
+## NO Týden 48: Sørfjorden
+
+Poslední den v Norsku jsem jel z města Mo i Rana až za polární kruh a do Švédska. Chtěl jsem si užít přejezd severního polárního kruhu, tak jsem si naplánoval jeho překonání na trajektu. Linka z Kilboghamn do Jektviku mi to splnila, ani mi nevadilo čekat skoro hodinu na příští spoj. A to jsem cestou na trajekt jednou zapomněl odbočit na vedlejší silnici a jel špatným směrem asi tři kilometry... Bylo však krásné počasí a vyfotil jsem hodně obrázků, voda ve fjordech měla krásnou barvu a okolní hory stály za to.
+
+Do kalendáře se ovšem dostal snímek trajektu, kterým jsem později opravdu jel (loď se jmenuje MF Tysfjord).
+
+Jako vždy jsem si na lodi dal kafe (viz "kaffekos") a pak jsem trávil čas na horní vyhlídkové palubě. Objížděli jsme ze západu impozantní horu Telnestinden (973 m) a já na mobilu v aplikaci mapy.com hlídal, kdy přesně protneme severní polární kruh. Mám i screenshot, který se mi skoro přesně podařilo pořídit.
+
+I v cílovém přístavu Jektvik bylo co pozorovat, pár minut jsem tam strávil a kochal se výhledy na záliv Skjåvika a okolní hory. Tuto trasu bych vám rozhodně doporučil absolvovat!
+
+<https://en.wikipedia.org/wiki/Melfjorden>
+
+<https://no.wikipedia.org/wiki/MF_%C2%ABTysfjord%C2%BB>
+
+<https://en.wikipedia.org/wiki/Arctic_Circle>
+
+<https://peakvisor.com/peak/telnestinden.html>
+
+<https://havspor.no/en/stopp/kilboghamn-ferjekai>
